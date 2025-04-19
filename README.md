@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5meThtMmRjNDl1djIwMm80aXd6bG5rbjE0YWJlZHJjNGg0aGdmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5meThtMmRjNDl1djIwMm80aXd6bG5rbjE0YWJlZHJjNGg0aGdmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
@@ -48,10 +46,6 @@
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
 
 ###
@@ -65,7 +59,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/jgrifkanmlg3i3yd1ksd8lsmx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgrifkanmlg3i3yd1ksd8lsmx&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgrifkanmlg3i3yd1ksd8lsmx&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
