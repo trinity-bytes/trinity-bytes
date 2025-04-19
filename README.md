@@ -5,7 +5,7 @@
 **[Forest Hero](https://github.com/trinity-bytes/ForestHero)** –  An adventure video game for CLI where you fight against deforestation 🌲⚔️. Play and save trees!  
 
 🎧 **When I'm not programming**  
-- Making music and singing 🎹🎶.  
+- Playing my guitar and singing 🎸🎶.  
 - Capturing moments with my camera 📸.   
 
 # 💻 Tech Stack:
