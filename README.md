@@ -1,6 +1,26 @@
-# 💫 About Me:
-👋 ¡Hola, soy Jahat!  <br>**Estudiante de Ingeniería de Software** 🎓 | **Desarrollador de C++** 🖥️ | **Diseñador gráfico convertido en codehero** ✨  <br><br>💻 **Mis herramientas favoritas:**  <br>- **C++** (¡mi lenguaje estrella! 🚀)  <br>- **Web básica:** HTML, CSS, JavaScript.  <br>- **Explorando:** Python y Java.  <br><br>🌳 **Proyecto del que me enorgullezco:**  <br>**[Forest Hero](link-al-repositorio)** – Un videojuego de aventuras para CLI donde luchas contra la deforestación 🌲⚔️. ¡Juega y salva árboles!  <br><br>🎨 **Diseño + Código = Magia:**  <br>Como ex-diseñador gráfico, me apasiona crear soluciones tech que sean **visualmente atractivas** y **funcionales**. ¿Mi misión? Usar la tecnología para mejorar vidas, un pixel (o línea de código) a la vez.  <br><br>🎧 **Cuando no estoy programando:**  <br>- Produciendo música electrónica 🎹.  <br>- Capturando momentos con mi cámara 📸.  <br>- Diseñando interfaces que enamoren ✏️.  <br><br>🚀 **¿Qué busco?**  <br>- Colaborar en **startups innovadoras**.  <br>- Compartir conocimiento sobre **C++** o **diseño orientado a developers**.  <br>- ¡Conectar con gente creativa como tú! 🤝  <br><br>📫 **¡Hablemos!**  <br>[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube)](link)  <br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](link)  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](link)  <br>[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](link)  <br><br>⚡ **Fun fact:** ¡Mis proyectos tienen nombres de bosques! 🌿 (¿Adivina qué viene después de Forest Hero?).
+# 👋 ¡Hola, soy [Tu Nombre]!  
+**Estudiante de Ingeniería de Software** 🎓 | **Desarrollador de C++** 🖥️ | **Diseñador gráfico** ✨  
 
+💻 **Mis herramientas favoritas:**  
+- **C++** (¡mi lenguaje estrella! 🚀)  
+- **Web básica:** HTML, CSS, JavaScript.  
+- **Explorando:** Python y Java.  
+
+🌳 **Proyecto del que me enorgullezco:**  
+**[Forest Hero](link-al-repositorio)** – Un videojuego de aventuras para CLI donde luchas contra la deforestación 🌲⚔️. ¡Juega y salva árboles!  
+
+🎨 **Diseño + Código = Magia:**  
+Como ex-diseñador gráfico, me apasiona crear soluciones tech que sean **visualmente atractivas** y **funcionales**. ¿Mi misión? Usar la tecnología para mejorar vidas, un pixel (o línea de código) a la vez.  
+
+🎧 **Cuando no estoy programando:**  
+- Produciendo música electrónica 🎹.  
+- Capturando momentos con mi cámara 📸.  
+- Diseñando interfaces que enamoren ✏️.  
+
+🚀 **¿Qué busco?**  
+- Colaborar en **startups innovadoras**.  
+- Compartir conocimiento sobre **C++** o **diseño orientado a developers**.  
+- ¡Conectar con gente creativa como tú! 🤝  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trinitybytes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/trinitybytes) 
