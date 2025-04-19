@@ -20,6 +20,10 @@
 
 ###
 
+<h2 align="left">⚙️ My tech skills:</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -52,6 +56,10 @@
 
 ###
 
+<h2 align="left">📊 Stats:</h2>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=trinity-bytes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -59,16 +67,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jgrifkanmlg3i3yd1ksd8lsmx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgrifkanmlg3i3yd1ksd8lsmx&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<h2 align="left">🎧🎶</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/trinity-bytes/count.svg?"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/jgrifkanmlg3i3yd1ksd8lsmx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgrifkanmlg3i3yd1ksd8lsmx&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
