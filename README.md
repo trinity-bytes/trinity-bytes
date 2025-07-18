@@ -35,6 +35,11 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=trinity-bytes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ---
 
 ## 🛠️ My Technical Skills
@@ -113,15 +118,6 @@ I'm always open to new connections and opportunities! Don't hesitate to reach ou
 
 - **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
 - **Email:** [jahatjassiel@outlook.com](mailto:jahatjassiel@outlook.com)
-
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=trinity-bytes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ---
 
