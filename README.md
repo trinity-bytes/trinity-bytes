@@ -1,19 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello## 📬 Connect With Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
 
-I'm always open to new connections and opportunities! Don't hesitate to reach out.
-
-- **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
-- **Email:** [Contact me directly](mailto:your.email@example.com)
-
----
-
-## 📈 My GitHub Activityt | C++ Developer & Problem Solver
-
-### Software Engineering Student at Peruvian University of Applied Sciences🎓
+### Software Engineering Student at Peruvian University of Applied Sciences 🎓
 
 ---
 
 ## About Me 🎯
+
+<img align="right" alt="Coding" width="350" src=".github/assets/gifs/about-me-coding.gif">
 
 As a passionate Software Engineering student, I'm driven by the **creativity and innovation** inherent in code. For me, software is a boundless canvas where every line expands possibilities and **crafts robust, elegant solutions from scratch**.
 
@@ -29,7 +22,7 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 
 ---
 
-## � Quick Stats
+## 📊 Quick Stats
 
 - 🎓 **University:** Peruvian University of Applied Sciences
 - 💻 **Primary Language:** C++ (Intermediate/Advanced)
@@ -38,7 +31,7 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 
 ---
 
-## �🛠️ My Technical Skills
+## 🛠️ My Technical Skills
 
 Here are the technologies I work with and am familiar with:
 
@@ -57,6 +50,10 @@ Here are some of the projects I've worked on that reflect my skills and interest
 
 ### **🏗️ CourseraClone - C++ Educational Platform**
 
+<div align="center">
+  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone Interface" width="700"/>
+</div>
+
 - **Description:** A comprehensive console-based learning management system that simulates a complete online course platform. Features user management, course creation, enrollment system, payment processing, and QR certificate generation.
 - **Technologies Used:** C++17, Custom Data Structures (AVL Trees, Hash Tables, Priority Queues), QR Code generation and Advanced algorithms.
 - **Key Features:**
@@ -68,6 +65,10 @@ Here are some of the projects I've worked on that reflect my skills and interest
 - **Repository:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
 ### **🌐 CurriculumFLOW - Academic Pathway Optimizer**
+
+<div align="center">
+  <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW Graph Visualization" width="700"/>
+</div>
 
 - **Description:** A web application for educational institutions that manages, visualizes, and optimizes study plans considering prerequisite relationships between courses using topological sorting algorithms.
 - **Technologies Used:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Cytoscape.js, Dagre.js, Graph algorithms.
@@ -81,6 +82,10 @@ Here are some of the projects I've worked on that reflect my skills and interest
 - **Live Demo:** [trinity-bytes.github.io/CurriculumFLOW](https://trinity-bytes.github.io/CurriculumFLOW/)
 
 ### **🎮 ForestHero2 - 2D Environmental Adventure Game**
+
+<div align="center">
+  <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 Gameplay" width="700"/>
+</div>
 
 - **Description:** A 2D pixel-art game developed in C++ with C++/CLI and Windows Forms where players control a forest guardian to protect and reforest the environment. Features resource management, combat system, and environmental conservation themes.
 - **Technologies Used:** C++14, C++/CLI, Windows Forms, System::Drawing, Graphics programming, Sound integration, File I/O for score persistence.
@@ -96,16 +101,16 @@ Here are some of the projects I've worked on that reflect my skills and interest
 
 ---
 
-## � Connect With Me
+## 📬 Connect With Me
 
 I'm always open to new connections and opportunities! Don't hesitate to reach out.
 
 - **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
-- **Email:** [Contact me directly](mailto:your.email@example.com)
+- **Email:** [Contact me directly](jahatjassiel@outlook.com)
 
 ---
 
-## �📈 My GitHub Activity
+## 📈 My GitHub Activity
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
