@@ -1,4 +1,13 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello## 📬 Connect With Me
+
+I'm always open to new connections and opportunities! Don't hesitate to reach out.
+
+- **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
+- **Email:** [Contact me directly](mailto:your.email@example.com)
+
+---
+
+## 📈 My GitHub Activityt | C++ Developer & Problem Solver
 
 ### Software Engineering Student at Peruvian University of Applied Sciences🎓
 
@@ -6,23 +15,30 @@
 
 ## About Me 🎯
 
-As an aspiring Software Engineer, I'm driven by a profound passion for the **creativity and innovation** inherent in the world of code. For me, software is a boundless canvas, where every line is an opportunity to expand possibilities and **craft robust, elegant solutions from scratch**. I'm particularly excited about the **design and implementation of enterprise systems**, focusing on backend logic and building efficient applications, such as CRUD solutions with basic web integrations.
+As a passionate Software Engineering student, I'm driven by the **creativity and innovation** inherent in code. For me, software is a boundless canvas where every line expands possibilities and **crafts robust, elegant solutions from scratch**.
 
-My approach to every challenge involves **thoroughly analyzing and understanding the problem**, then experimenting with various approaches until the most solid solution is found. This pursuit of robustness and continuous improvement is what truly motivates me. I've cultivated **perseverance and discipline** by breaking down complex challenges into manageable steps, learning that every small advance brings us closer to the final goal.
+I specialize in **C++** (intermediate/advanced level) and focus on **enterprise systems design**, particularly backend logic and efficient applications like CRUD solutions with web integrations. My approach involves **thoroughly analyzing problems** and experimenting with various approaches until finding the most solid solution.
 
-I am a **detail-oriented, curious, and self-taught** developer, always eager to expand my knowledge and apply new ideas. I deeply enjoy **teamwork** and value collaboration as a key tool for building something greater.
-
-Currently, I'm actively seeking **internships** where I can apply my skills with C++ (my primary language, in which I have an intermediate/advanced academic proficiency) and foundational knowledge of JavaScript, HTML, and CSS. My goal is to immerse myself in a professional environment, contribute meaningful value, and learn from real-world experience to continue growing as an engineer.
+I'm a **detail-oriented, curious, and self-taught** developer who thrives on **teamwork** and collaboration. Currently, I'm actively seeking **internships** to apply my C++ expertise alongside my foundational knowledge of JavaScript, HTML, and CSS in a professional environment.
 
 ---
 
 ## 🎶 Beyond Code & Engineering 📸
 
-When I'm not immersed in the world of software, my life is nourished by other passions that inspire and recharge me. **Music** is a fundamental part of who I am: as a member of my university's polyphonic choir, I enjoy the discipline and joy of team performances. My guitar is also a constant companion, allowing me to explore genres like jazz and bossa nova. **Photography** is another great hobby; each photo is a crafted memory, a way to collect and relive moments that remind me of the beauty in the world. These experiences, alongside engineering, make me feel truly alive and grateful for the endless possibilities life offers.
+When I'm not coding, I'm exploring other passions that fuel my creativity. As a member of my university's **polyphonic choir** and a **guitar enthusiast** (jazz & bossa nova), music brings discipline and joy to my life. **Photography** is another passion—each shot is a crafted memory that reminds me of life's endless possibilities.
 
 ---
 
-## 🛠️ My Technical Skills
+## � Quick Stats
+
+- 🎓 **University:** Peruvian University of Applied Sciences
+- 💻 **Primary Language:** C++ (Intermediate/Advanced)
+- 🚀 **Current Focus:** Enterprise Systems & Backend Development
+- 🔍 **Seeking:** Software Engineering Internships
+
+---
+
+## �🛠️ My Technical Skills
 
 Here are the technologies I work with and am familiar with:
 
@@ -39,7 +55,7 @@ Here are the technologies I work with and am familiar with:
 
 Here are some of the projects I've worked on that reflect my skills and interests. I invite you to explore their repositories for more details:
 
-### **CourseraClone - C++ Educational Platform**
+### **🏗️ CourseraClone - C++ Educational Platform**
 
 - **Description:** A comprehensive console-based learning management system that simulates a complete online course platform. Features user management, course creation, enrollment system, payment processing, and QR certificate generation.
 - **Technologies Used:** C++17, Custom Data Structures (AVL Trees, Hash Tables, Priority Queues), QR Code generation and Advanced algorithms.
@@ -51,7 +67,7 @@ Here are some of the projects I've worked on that reflect my skills and interest
   - Complete financial management system
 - **Repository:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
-### **CurriculumFLOW - Academic Pathway Optimizer**
+### **🌐 CurriculumFLOW - Academic Pathway Optimizer**
 
 - **Description:** A web application for educational institutions that manages, visualizes, and optimizes study plans considering prerequisite relationships between courses using topological sorting algorithms.
 - **Technologies Used:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Cytoscape.js, Dagre.js, Graph algorithms.
@@ -64,7 +80,7 @@ Here are some of the projects I've worked on that reflect my skills and interest
 - **Repository:** [CurriculumFLOW](https://github.com/trinity-bytes/CurriculumFLOW)
 - **Live Demo:** [trinity-bytes.github.io/CurriculumFLOW](https://trinity-bytes.github.io/CurriculumFLOW/)
 
-### **ForestHero2 - 2D Environmental Adventure Game**
+### **🎮 ForestHero2 - 2D Environmental Adventure Game**
 
 - **Description:** A 2D pixel-art game developed in C++ with C++/CLI and Windows Forms where players control a forest guardian to protect and reforest the environment. Features resource management, combat system, and environmental conservation themes.
 - **Technologies Used:** C++14, C++/CLI, Windows Forms, System::Drawing, Graphics programming, Sound integration, File I/O for score persistence.
@@ -80,7 +96,16 @@ Here are some of the projects I've worked on that reflect my skills and interest
 
 ---
 
-## 📈 My GitHub Activity
+## � Connect With Me
+
+I'm always open to new connections and opportunities! Don't hesitate to reach out.
+
+- **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
+- **Email:** [Contact me directly](mailto:your.email@example.com)
+
+---
+
+## �📈 My GitHub Activity
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -89,4 +114,6 @@ Here are some of the projects I've worked on that reflect my skills and interest
 
 ---
 
-Thanks for visiting my profile! I'm excited to keep building and learning in the world of software development.
+**"Building robust solutions, one line of code at a time."**
+
+Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀
