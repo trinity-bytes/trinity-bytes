@@ -29,6 +29,14 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 - 🚀 **Current Focus:** Enterprise Systems & Backend Development
 - 🔍 **Seeking:** Software Engineering Internships
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg" alt="GitHub Contribution Graph" />
+</div>
+
+<img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions" />
+
 ---
 
 ## 🛠️ My Technical Skills
