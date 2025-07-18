@@ -106,7 +106,7 @@ Here are some of the projects I've worked on that reflect my skills and interest
 I'm always open to new connections and opportunities! Don't hesitate to reach out.
 
 - **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
-- **Email:** [Contact me directly](jahatjassiel@outlook.com)
+- **Email:** [jahatjassiel@outlook.com](mailto:jahatjassiel@outlook.com)
 
 ---
 
@@ -119,6 +119,10 @@ I'm always open to new connections and opportunities! Don't hesitate to reach ou
 
 ---
 
+<div align="center">
+
 **"Building robust solutions, one line of code at a time."**
 
-Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀
+_Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀_
+
+</div>
