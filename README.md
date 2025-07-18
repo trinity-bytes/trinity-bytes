@@ -29,14 +29,6 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 - 🚀 **Current Focus:** Enterprise Systems & Backend Development
 - 🔍 **Seeking:** Software Engineering Internships
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg" alt="GitHub Contribution Graph" />
-</div>
-
-<img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-<img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions" />
-
 ---
 
 ## 🛠️ My Technical Skills
@@ -123,6 +115,20 @@ I'm always open to new connections and opportunities! Don't hesitate to reach ou
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img src="https://streak-stats.demolab.com?user=trinity-bytes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+### GitHub Contribution Animations
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg" alt="Pacman GitHub Contribution Graph" />
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/github-snake.svg" alt="Snake eating my contributions" />
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/profile-season-animate.svg" alt="3D GitHub Contributions Calendar" />
 </div>
 
 ---
