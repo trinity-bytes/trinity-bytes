@@ -30,9 +30,15 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 - 🔍 **Seeking:** Software Engineering Internships
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
 <div align="center">
