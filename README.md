@@ -150,6 +150,10 @@ Here are some of the projects I've worked on that reflect my skills and interest
 - Adding minimal CI (Windows/MSVC) to personal repos.
 - Practicing problem solving and clean architecture on small utilities/services.
 
+## Certifications
+
+- EF SET English Certificate — C1 Advanced ([verify](https://cert.efset.org/v2tSBV))
+
 ## 📬 Connect With Me
 
 I'm always open to new connections and opportunities! Don't hesitate to reach out.
