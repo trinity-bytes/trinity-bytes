@@ -4,7 +4,13 @@
 
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
-[Resume (PDF)](.github/assets/Resume_ES_Jahat_Trinidad.pdf) • [LinkedIn](https://www.linkedin.com/in/trinitybytes) • [Email](mailto:jahatjassiel@outlook.com)
+<div align="center">
+  <a href=".github/assets/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
+  •
+  <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a>
+  •
+  <a href="mailto:jahatjassiel@outlook.com">Email</a>
+</div>
 
 ---
 
