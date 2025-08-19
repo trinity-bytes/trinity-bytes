@@ -1,12 +1,16 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
+# <img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
 
 ### Software Engineering Student at Peruvian University of Applied Sciences 🎓
+
+> C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
+
+[Resume (PDF)](assets/Resume_ES_Jahat_Trinidad.pdf) • [LinkedIn](https://www.linkedin.com/in/trinitybytes) • [Email](mailto:jahatjassiel@outlook.com)
 
 ---
 
 ## About Me 🎯
 
-<img align="right" alt="Coding" width="350" src=".github/assets/gifs/about-me-coding.gif">
+<img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding.gif">
 
 As a passionate Software Engineering student, I'm driven by the **creativity and innovation** inherent in code. For me, software is a boundless canvas where every line expands possibilities and **crafts robust, elegant solutions from scratch**.
 
@@ -28,6 +32,9 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 - 💻 **Primary Language:** C++ (Intermediate/Advanced)
 - 🚀 **Current Focus:** Enterprise Systems & Backend Development
 - 🔍 **Seeking:** Software Engineering Internships
+- 🧭 **Preferences:** On-site preferred; open to remote/hybrid (Lima time, GMT-5)
+- 🌐 **Languages:** Spanish (native), English (B1), Portuguese (A2)
+- 📅 **Availability:** Now (with class schedule flexibility); full-time from mid-December
 
 <picture>
   <source
@@ -38,17 +45,27 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
     media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <img alt="Breakout mini-game SVG (light mode)" src="images/breakout-light.svg" />
 </picture>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=trinity-bytes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinity-bytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="GitHub top languages chart for @trinity-bytes"  />
 </div>
 
 ---
 
+## 🔥 Highlights
+
+- Strong C++ abstractions: data structures and algorithms from scratch (AVL, Hash, Heap, BST, linked lists).
+- Product-thinking + systems design: layered architecture, clear separation of concerns, and console UI that feels intuitive.
+- Practical graph work: topological sort (Kahn) and Hasse reduction with CSV/JSON exports and basic A11y.
+
 ## 🛠️ My Technical Skills
+
+Core skills for C++ backend
+- Strong: C++17, STL, DS/algorithms, RAII, file I/O, modular design.
+- Solid: Patterns (MVC/Strategy/Factory), exceptions, MSVC/Visual Studio, Git.
+- Basic: SQLite, JS/HTML/CSS, GitHub Actions, Linux fundamentals.
 
 Here are the technologies I work with and am familiar with:
 
@@ -68,11 +85,12 @@ Here are some of the projects I've worked on that reflect my skills and interest
 ### **🏗️ CourseraClone - C++ Educational Platform**
 
 <div align="center">
-  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone Interface" width="700"/>
+  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI — main menu with navigable options" width="700"/>
 </div>
 
 - **Description:** A comprehensive console-based learning management system that simulates a complete online course platform. Features user management, course creation, enrollment system, payment processing, and QR certificate generation.
 - **Technologies Used:** C++17, Custom Data Structures (AVL Trees, Hash Tables, Priority Queues), QR Code generation and Advanced algorithms.
+- **My role:** Product owner and developer (console UI/UX with arrows/enter, QR certificates and payment receipts, layered architecture & internal logic separation). Team: Jahat Trinidad, Mauricio Teran, Fabrizio Santi.
 - **Key Features:**
   - 12+ custom data structures implemented from scratch
   - Enterprise-level architecture with MVC pattern
@@ -84,11 +102,12 @@ Here are some of the projects I've worked on that reflect my skills and interest
 ### **🌐 CurriculumFLOW - Academic Pathway Optimizer**
 
 <div align="center">
-  <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW Graph Visualization" width="700"/>
+  <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW — curriculum graph visualization with nodes and prerequisite edges" width="700"/>
 </div>
 
 - **Description:** A web application for educational institutions that manages, visualizes, and optimizes study plans considering prerequisite relationships between courses using topological sorting algorithms.
 - **Technologies Used:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Cytoscape.js, Dagre.js, Graph algorithms.
+- **My role:** Sole developer (graph modeling, topological sort (Kahn), Hasse reduction, A11y improvements, CSV/JSON exports).
 - **Key Features:**
   - Interactive visualization of courses and prerequisites
   - Automatic generation of prerequisites with configurable constraints
@@ -101,11 +120,12 @@ Here are some of the projects I've worked on that reflect my skills and interest
 ### **🎮 ForestHero2 - 2D Environmental Adventure Game**
 
 <div align="center">
-  <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 Gameplay" width="700"/>
+  <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 — 2D pixel-art gameplay with character, enemies, and HUD" width="700"/>
 </div>
 
 - **Description:** A 2D pixel-art game developed in C++ with C++/CLI and Windows Forms where players control a forest guardian to protect and reforest the environment. Features resource management, combat system, and environmental conservation themes.
 - **Technologies Used:** C++14, C++/CLI, Windows Forms, System::Drawing, Graphics programming, Sound integration, File I/O for score persistence.
+- **My role:** Game designer, art, gameplay design, and main loop work (states, input handling, timing).
 - **Key Features:**
   - Dynamic gameplay with resource collection and management
   - Reforestation mechanics with tree planting system
@@ -117,6 +137,12 @@ Here are some of the projects I've worked on that reflect my skills and interest
 - **Repository:** [ForestHero2](https://github.com/trinity-bytes/ForestHero2)
 
 ---
+
+## 🎯 Now / Focus
+
+- Solidifying C++ backend foundations with tests (GoogleTest) and microbenchmarks (Google Benchmark).
+- Adding minimal CI (Windows/MSVC) to personal repos.
+- Practicing problem solving and clean architecture on small utilities/services.
 
 ## 📬 Connect With Me
 
