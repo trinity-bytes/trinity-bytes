@@ -5,7 +5,7 @@
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
 <div align="center">
-  <a href=".github/assets/##Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
+  <a href=".github/assets/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
   •
   <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a>
   •
