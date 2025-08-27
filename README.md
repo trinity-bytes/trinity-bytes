@@ -166,8 +166,6 @@ I'm always open to new connections and opportunities! Don't hesitate to reach ou
 
 <div align="center">
 
-**"Building robust solutions, one line of code at a time."**
-
 _Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀_
 
 </div>
