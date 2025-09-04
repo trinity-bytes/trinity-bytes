@@ -20,11 +20,7 @@
 
 <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding.gif">
 
-As a passionate Software Engineering student, I'm driven by the **creativity and innovation** inherent in code. For me, software is a boundless canvas where every line expands possibilities and **crafts robust, elegant solutions from scratch**.
-
-I specialize in **C++** (intermediate/advanced level) and focus on **enterprise systems design**, particularly backend logic and efficient applications like CRUD solutions with web integrations. My approach involves **thoroughly analyzing problems** and experimenting with various approaches until finding the most solid solution.
-
-I'm a **detail-oriented, curious, and self-taught** developer who thrives on **teamwork** and collaboration. Currently, I'm actively seeking **internships** to apply my C++ expertise alongside my foundational knowledge of JavaScript, HTML, and CSS in a professional environment.
+Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
 
 ---
 
