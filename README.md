@@ -28,7 +28,7 @@ Software Engineering student focused on C++ backend and enterprise systems. I tu
 
 ---
 
-## 🎶 Beyond Code & Engineering 📸
+### 🎶 Beyond Code & Engineering 📸
 
 When I'm not coding, I'm exploring other passions that fuel my creativity. As a member of my university's **polyphonic choir** and a **guitar enthusiast** (jazz & bossa nova), music brings discipline and joy to my life. **Photography** is another passion—each shot is a crafted memory that reminds me of life's endless possibilities.
 
