@@ -57,8 +57,11 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub top languages chart for @trinity-bytes" />
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img alt="GitHub top languages chart for @trinity-bytes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </picture>
 </div>
 
 ---
