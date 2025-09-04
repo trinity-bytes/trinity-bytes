@@ -1,6 +1,8 @@
+<!-- markdownlint-disable MD033 MD007 -->
+
 # <img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
 
-### Software Engineering Student at Peruvian University of Applied Sciences 🎓
+## Software Engineering Student at Peruvian University of Applied Sciences 🎓
 
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
@@ -70,6 +72,7 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 ## 🛠️ My Technical Skills
 
 Core skills for C++ backend
+
 - Strong: C++17, STL, DS/algorithms, RAII, file I/O, modular design.
 - Solid: Patterns (MVC/Strategy/Factory), exceptions, MSVC/Visual Studio, Git.
 - Basic: SQLite, JS/HTML/CSS, GitHub Actions, Linux fundamentals.
@@ -87,85 +90,56 @@ Here are the technologies I work with and am familiar with:
 
 ## 🚀 Featured Projects
 
-Here are some of the projects I've worked on that reflect my skills and interests. I invite you to explore their repositories for more details:
+Focused spotlight on my main C++ system; other projects are kept concise and expandable.
 
-### **🏗️ CourseraClone - C++ Educational Platform**
-
-<div align="center">
-  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI — main menu with navigable options" width="700"/>
-</div>
-
-- **Description:** A comprehensive console-based learning management system that simulates a complete online course platform. Features user management, course creation, enrollment system, payment processing, and QR certificate generation.
-- **Technologies Used:** C++17, Custom Data Structures (AVL Trees, Hash Tables, Priority Queues), QR Code generation and Advanced algorithms.
-- **My role:** Product owner and developer (console UI/UX with arrows/enter, QR certificates and payment receipts, layered architecture & internal logic separation). Team: Jahat Trinidad, Mauricio Teran, Fabrizio Santi.
-- **Key Features:**
-  - 12+ custom data structures implemented from scratch
-  - Enterprise-level architecture with MVC pattern
-  - Advanced search and sorting algorithms
-  - QR certificate system with validation
-  - Complete financial management system
-- **Repository:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
-
-### **🌐 CurriculumFLOW - Academic Pathway Optimizer**
+### 🏗️ CourseraClone — C++ Educational Platform (Primary)
 
 <div align="center">
-  <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW — curriculum graph visualization with nodes and prerequisite edges" width="700"/>
+  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI main menu" width="700"/>
 </div>
 
-- **Description:** A web application for educational institutions that manages, visualizes, and optimizes study plans considering prerequisite relationships between courses using topological sorting algorithms.
-- **Technologies Used:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Cytoscape.js, Dagre.js, Graph algorithms.
-- **My role:** Sole developer (graph modeling, topological sort (Kahn), Hasse reduction, A11y improvements, CSV/JSON exports).
-- **Key Features:**
-  - Interactive visualization of courses and prerequisites
-  - Automatic generation of prerequisites with configurable constraints
-  - Topological sorting to assign courses to academic cycles
-  - Consistency validation to detect cycles or conflicts
-  - Fully functional offline with all dependencies localized
-- **Repository:** [CurriculumFLOW](https://github.com/trinity-bytes/CurriculumFLOW)
-- **Live Demo:** [trinity-bytes.github.io/CurriculumFLOW](https://trinity-bytes.github.io/CurriculumFLOW/)
+- **What it is:** Console-based LMS simulating an online course platform (users, courses, enrollments, payments, QR certificates).
+- **Tech:** C++17, STL, custom DS (AVL, hash, heap), layered MVC, RAII.
+- **Role:** Product owner & lead dev (console UX with arrows/enter, certificates, receipts, architecture). Team of 3.
+- **Highlights:**
+  - 12+ data structures from scratch
+  - Search/sort, indexing, and robust persistence
+  - QR certificates with code validation
+  - Receipts and a basic financial ledger
+- **Repo:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
-### **🎮 ForestHero2 - 2D Environmental Adventure Game**
+<details>
+  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula</summary>
 
-<div align="center">
-  <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 — 2D pixel-art gameplay with character, enemies, and HUD" width="700"/>
-</div>
+  <div align="center">
+    <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="700"/>
+  </div>
 
-- **Description:** A 2D pixel-art game developed in C++ with C++/CLI and Windows Forms where players control a forest guardian to protect and reforest the environment. Features resource management, combat system, and environmental conservation themes.
-- **Technologies Used:** C++14, C++/CLI, Windows Forms, System::Drawing, Graphics programming, Sound integration, File I/O for score persistence.
-- **My role:** Game designer, art, gameplay design, and main loop work (states, input handling, timing).
-- **Key Features:**
-  - Dynamic gameplay with resource collection and management
-  - Reforestation mechanics with tree planting system
-  - Combat system against environmental threats
-  - Power-ups and collectibles with ally assistance
-  - Complete UI with menus, instructions, and game screens
-  - Immersive audio experience with multiple soundtracks
-  - Score and time-based progression system
-- **Repository:** [ForestHero2](https://github.com/trinity-bytes/ForestHero2)
+- **What it is:** Visualize prerequisites and generate valid study plans with topological sorting.
+- **Tech:** HTML/CSS/JS, Bootstrap 5, Cytoscape.js, Dagre.js.
+- **Highlights:** Kahn topo sort + Hasse reduction; CSV/JSON import-export; offline ready.
+- **Links:** [Repo](https://github.com/trinity-bytes/CurriculumFLOW) · [Live](https://trinity-bytes.github.io/CurriculumFLOW/)
 
----
+</details>
 
-## 🎯 Now / Focus
+<details>
+  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game</summary>
 
-- Solidifying C++ backend foundations with tests (GoogleTest) and microbenchmarks (Google Benchmark).
-- Adding minimal CI (Windows/MSVC) to personal repos.
-- Practicing problem solving and clean architecture on small utilities/services.
+  <div align="center">
+    <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="700"/>
+  </div>
 
-## Certifications
+- **What it is:** Pixel-art game about protecting and reforesting a forest; resource management and combat.
+- **Tech:** C++14, C++/CLI, Windows Forms, System::Drawing; basic audio and persistence.
+- **Highlights:** Solid game loop (states/input/timing), reforestation mechanics, UI screens, sound effects/music.
+- **Link:** [Repo](https://github.com/trinity-bytes/ForestHero2)
 
-- EF SET English Certificate — C1 Advanced ([verify](https://cert.efset.org/v2tSBV))
-
-## 📬 Connect With Me
-
-I'm always open to new connections and opportunities! Don't hesitate to reach out.
-
-- **LinkedIn:** [linkedin.com/in/trinitybytes](https://www.linkedin.com/in/trinitybytes)
-- **Email:** [jahatjassiel@outlook.com](mailto:jahatjassiel@outlook.com)
+</details>
 
 ---
 
 <div align="center">
 
-_Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀_
+Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀
 
 </div>
