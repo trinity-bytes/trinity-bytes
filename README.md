@@ -18,7 +18,11 @@
 
 ## About Me 🎯
 
-<img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gifs/about-me-coding-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/gifs/about-me-coding-light.gif" />
+  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding-light.gif" />
+</picture>
 
 Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
 
