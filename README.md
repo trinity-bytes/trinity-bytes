@@ -2,7 +2,7 @@
 
 # <img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
 
-## Software Engineering Student at Peruvian University of Applied Sciences 🎓
+## Software Engineering Student at [Peruvian University of Applied Sciences (UPC)](https://www.upc.edu.pe) 🎓
 
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
@@ -112,7 +112,7 @@ Focused spotlight on my main C++ system; other projects are kept concise and exp
 - **Repo:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
 <details>
-  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula</summary>
+  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula (click to expand)</summary>
 
   <div align="center">
     <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="700"/>
@@ -126,7 +126,7 @@ Focused spotlight on my main C++ system; other projects are kept concise and exp
 </details>
 
 <details>
-  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game</summary>
+  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game (click to expand)</summary>
 
   <div align="center">
     <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="700"/>
