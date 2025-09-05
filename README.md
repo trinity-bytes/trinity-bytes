@@ -36,7 +36,6 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 
 ## 📊 Quick Stats
 
-- 🎓 **University:** Peruvian University of Applied Sciences
 - 💻 **Primary Language:** C++ (Intermediate/Advanced)
 - 🚀 **Current Focus:** Enterprise Systems & Backend Development
 - 🔍 **Seeking:** Software Engineering Internships
