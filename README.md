@@ -66,10 +66,10 @@
 
 ## 📊 Quick Stats
 
-- � **Lima, PE** · **GMT-5** · **Available now**
-- �💻 **Primary Language:** C++ (Intermediate/Advanced)
-- 🔍 **Seeking:** Software Engineering Internships
-- 🌐 **Languages:** Spanish (native), English (B1), Portuguese (A2)
+- :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
+- :computer: **Primary Language:** C++ (Intermediate/Advanced)
+- :mag: **Seeking:** Software Engineering Internships
+- :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
 
 <!-- markdownlint-disable MD033 -->
 <picture>
