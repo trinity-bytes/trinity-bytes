@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD033 MD007 -->
 
-# <img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | C++ Developer & Problem Solver
-
-## Software Engineering Student at [Peruvian University of Applied Sciences (UPC)](https://www.upc.edu.pe) 🎓
+# <img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | Developer & Problem Solver
 
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
@@ -13,24 +11,6 @@
   •
   <a href="mailto:jahatjassiel@outlook.com">Email</a>
 </div>
-
----
-
-## About Me 🎯
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gifs/about-me-coding-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/gifs/about-me-coding-light.gif" />
-  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding-light.gif" />
-</picture>
-
-Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
-
----
-
-### 🎶 Beyond Code & Engineering 📸
-
-When I'm not coding, I'm exploring other passions that fuel my creativity. As a member of my university's **polyphonic choir** and a **guitar enthusiast** (jazz & bossa nova), music brings discipline and joy to my life. **Photography** is another passion—each shot is a crafted memory that reminds me of life's endless possibilities.
 
 ---
 
@@ -137,6 +117,24 @@ Focused spotlight on my main C++ system; other projects are kept concise and exp
 - **Link:** [Repo](https://github.com/trinity-bytes/ForestHero2)
 
 </details>
+
+---
+
+## About Me 🎯
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gifs/about-me-coding-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/gifs/about-me-coding-light.gif" />
+  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding-light.gif" />
+</picture>
+
+Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
+
+---
+
+### 🎶 Beyond Code & Engineering 📸
+
+When I'm not coding, I'm exploring other passions that fuel my creativity. As a member of my university's **polyphonic choir** and a **guitar enthusiast** (jazz & bossa nova), music brings discipline and joy to my life. **Photography** is another passion—each shot is a crafted memory that reminds me of life's endless possibilities.
 
 ---
 
