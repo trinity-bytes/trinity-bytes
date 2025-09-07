@@ -51,23 +51,6 @@
 - Product-thinking + systems design: layered architecture, clear separation of concerns, and console UI that feels intuitive.
 - Practical graph work: topological sort (Kahn) and Hasse reduction with CSV/JSON exports and basic A11y.
 
-## 🛠️ My Technical Skills
-
-Core skills for C++ backend
-
-- Strong: C++17, STL, DS/algorithms, RAII, file I/O, modular design.
-- Solid: Patterns (MVC/Strategy/Factory), exceptions, MSVC/Visual Studio, Git.
-- Basic: SQLite, JS/HTML/CSS, GitHub Actions, Linux fundamentals.
-
-Here are the technologies I work with and am familiar with:
-
-| Category            | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**       | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| **Tools**           | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                            |
-| **Databases**       | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Frameworks/Libs** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
 ---
 
 ## 🚀 Featured Projects
@@ -117,6 +100,25 @@ Focused spotlight on my main C++ system; other projects are kept concise and exp
 - **Link:** [Repo](https://github.com/trinity-bytes/ForestHero2)
 
 </details>
+
+---
+
+## 🛠️ My Technical Skills
+
+Core skills for C++ backend
+
+- Strong: C++17, STL, DS/algorithms, RAII, file I/O, modular design.
+- Solid: Patterns (MVC/Strategy/Factory), exceptions, MSVC/Visual Studio, Git.
+- Basic: SQLite, JS/HTML/CSS, GitHub Actions, Linux fundamentals.
+
+Here are the technologies I work with and am familiar with:
+
+| Category            | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**       | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| **Tools**           | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                            |
+| **Databases**       | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Frameworks/Libs** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ---
 
