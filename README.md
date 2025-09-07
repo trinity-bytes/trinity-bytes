@@ -1,9 +1,10 @@
-<!-- markdownlint-disable MD033 MD007 -->
-
+<!-- markdownlint-disable MD033 -->
 <h1 align="center"><img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | Developer & Problem Solver</h1>
+<!-- markdownlint-enable MD033 -->
 
 > C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
   <a href=".github/assets/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
   •
@@ -11,6 +12,7 @@
   •
   <a href="mailto:jahatjassiel@outlook.com">Email</a>
 </div>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -18,8 +20,9 @@
 
 ### 🏗️ CourseraClone — C++ Educational Platform (Primary)
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI main menu" width="700"/>
+  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI main menu" width="640"/>
 </div>
 
 - **What it is:** Console-based LMS simulating an online course platform (users, courses, enrollments, payments, QR certificates).
@@ -36,7 +39,7 @@
   <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula (click to expand)</summary>
 
   <div align="center">
-    <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="700"/>
+    <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="640"/>
   </div>
 
 - **What it is:** Visualize prerequisites and generate valid study plans with topological sorting.
@@ -50,7 +53,7 @@
   <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game (click to expand)</summary>
 
   <div align="center">
-    <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="700"/>
+    <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="640"/>
   </div>
 
 - **What it is:** Pixel-art game about protecting and reforesting a forest; resource management and combat.
@@ -58,14 +61,17 @@
 - **Highlights:** Solid game loop (states/input/timing), reforestation mechanics, UI screens, sound effects/music.
 - **Link:** [Repo](https://github.com/trinity-bytes/ForestHero2)
 
+<!-- markdownlint-enable MD033 -->
 </details>
 
 ## 📊 Quick Stats
 
-- 💻 **Primary Language:** C++ (Intermediate/Advanced)
+- � **Lima, PE** · **GMT-5** · **Available now**
+- �💻 **Primary Language:** C++ (Intermediate/Advanced)
 - 🔍 **Seeking:** Software Engineering Internships
 - 🌐 **Languages:** Spanish (native), English (B1), Portuguese (A2)
 
+<!-- markdownlint-disable MD033 -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -80,11 +86,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <img alt="GitHub top languages chart for @trinity-bytes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=7200" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=7200" />
+  <img alt="GitHub top languages chart for @trinity-bytes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=7200" />
   </picture>
 </div>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -115,11 +122,13 @@ Here are the technologies I work with and am familiar with:
 
 ## About Me 🎯
 
+<!-- markdownlint-disable MD033 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gifs/about-me-coding-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset=".github/assets/gifs/about-me-coding-light.gif" />
   <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding-light.gif" />
 </picture>
+<!-- markdownlint-enable MD033 -->
 
 Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
 
@@ -131,6 +140,8 @@ When I'm not coding, I'm exploring other passions that fuel my creativity. As a 
 
 ---
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
 Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀
 </div>
+<!-- markdownlint-enable MD033 -->
