@@ -36,7 +36,7 @@
 - **Repo:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
 <details>
-  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula <em style="color: #007ACC;">(click to expand)</em></summary>
+  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula (<a href="#">click to expand</a>)</summary>
 
   <div align="center">
     <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="640"/>
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game <em style="color: #007ACC;">(click to expand)</em></summary>
+  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game (<a href="#">click to expand</a>)</summary>
 
   <div align="center">
     <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="640"/>
