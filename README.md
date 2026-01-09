@@ -73,17 +73,15 @@
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
-  </picture>
+  <a href="https://github.com/trinity-bytes">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" />
+  </a>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </picture>
+  <a href="https://github.com/trinity-bytes">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" />
+  </a>
 </div>
 <!-- markdownlint-enable MD033 -->
 
