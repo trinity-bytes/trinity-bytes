@@ -72,45 +72,18 @@
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
 
 <!-- markdownlint-disable MD033 -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout mini-game SVG (light mode)" src="images/breakout-light.svg" />
-</picture>
-
 <div align="center">
-  <img
-    alt="GitHub stats for @trinity-bytes"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=trinity-bytes&amp;theme=catppuccin_latte&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true#gh-light-mode-only"
-  />
-  <img
-    alt="GitHub stats for @trinity-bytes"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=trinity-bytes&amp;theme=catppuccin_mocha&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true#gh-dark-mode-only"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  </picture>
   <br/>
-  <img
-    alt="GitHub streak stats for @trinity-bytes"
-    src="https://nirzak-streak-stats.vercel.app/?user=trinity-bytes&amp;theme=catppuccin_latte&amp;hide_border=false#gh-light-mode-only"
-  />
-  <img
-    alt="GitHub streak stats for @trinity-bytes"
-    src="https://nirzak-streak-stats.vercel.app/?user=trinity-bytes&amp;theme=catppuccin_mocha&amp;hide_border=false#gh-dark-mode-only"
-  />
-  <br/>
-  <img
-    alt="GitHub top languages chart for @trinity-bytes"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trinity-bytes&amp;theme=catppuccin_latte&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact#gh-light-mode-only"
-  />
-  <img
-    alt="GitHub top languages chart for @trinity-bytes"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trinity-bytes&amp;theme=catppuccin_mocha&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact#gh-dark-mode-only"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </picture>
 </div>
 <!-- markdownlint-enable MD033 -->
 
