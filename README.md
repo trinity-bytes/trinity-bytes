@@ -6,7 +6,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <a href=".github/assets/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
+  <a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
   •
   <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a>
   •
@@ -18,11 +18,11 @@
 
 ## 🚀 Featured Projects
 
-### 🏗️ CourseraClone — C++ Educational Platform (Primary)
+### 🏗️ CourseraClone — C++ Educational Platform
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src=".github/assets/screenshots/coursera-clone-main.png" alt="CourseraClone console UI main menu" width="640"/>
+  <img src="assets/images/screenshots/coursera-clone-main.png" alt="CourseraClone console UI main menu" width="640"/>
 </div>
 
 - **What it is:** Console-based LMS simulating an online course platform (users, courses, enrollments, payments, QR certificates).
@@ -35,33 +35,47 @@
   - Receipts and a basic financial ledger
 - **Repo:** [CourseraClone](https://github.com/trinity-bytes/CourseraClone)
 
+### 🌿 Mink'a Landing — Circular Economy Platform
+
+<div align="center">
+  <img src="assets/images/screenshots/minka-landing-home.png" alt="Mink'a Landing Page hero section" width="640"/>
+</div>
+
+- **What it is:** Landing page for Mink'a, a community platform for bartering goods and services under a circular economy model.
+- **Tech:** HTML5, CSS3 (Flexbox, Grid, custom properties), JavaScript ES6+, GitHub Actions CI/CD.
+- **Role:** Core contributor & integration lead. Team of 6 using GitFlow (branches, issues, PRs, releases).
+- **Highlights:**
+  - Responsive design with accessibility (ARIA, AA contrast, keyboard nav)
+  - Automated deployment to GitHub Pages
+  - 140+ commits, 6 releases, professional Git workflow
+- **Links:** [Repo](https://github.com/Reflow-Tech-UPC/Minka-Landingpage) · [Live](https://reflow-tech-upc.github.io/Minka-Landingpage/)
+
 <details>
-  <summary><strong>🌐 CurriculumFLOW — Academic Pathway Optimizer</strong> · Web app for visualizing and optimizing curricula <strong><em>(click to expand)</em></strong></summary>
+  <summary><strong>💚 AllinBand Landing — Smart Wearable for Health Monitoring</strong> · IoT landing page <strong><em>(click to expand)</em></strong></summary>
 
   <div align="center">
-    <img src=".github/assets/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW curriculum graph visualization" width="640"/>
+    <img src="assets/images/screenshots/allinband-landing.png" alt="AllinBand Landing Page" width="640"/>
   </div>
 
-- **What it is:** Visualize prerequisites and generate valid study plans with topological sorting.
-- **Tech:** HTML/CSS/JS, Bootstrap 5, Cytoscape.js, Dagre.js.
-- **Highlights:** Kahn topo sort + Hasse reduction; CSV/JSON import-export; offline ready.
-- **Links:** [Repo](https://github.com/trinity-bytes/CurriculumFLOW) · [Live](https://trinity-bytes.github.io/CurriculumFLOW/)
+- **What it is:** Official landing page for AllinBand, a smart wristband for vital signs monitoring and emergency detection with ML.
+- **Tech:** HTML5, CSS3, JavaScript, responsive design.
+- **Context:** Computer Architecture course project at UPC.
+- **Links:** [Repo](https://github.com/trinity-bytes/AllinBand-Landing)
 
 </details>
 
 <details>
-  <summary><strong>🎮 ForestHero2 — 2D Environmental Adventure</strong> · C++/CLI Windows Forms game <strong><em>(click to expand)</em></strong></summary>
+  <summary><strong>♻️ GreenCircuit — Urban Collection Route Optimizer</strong> · Graph algorithms + visualization <strong><em>(click to expand)</em></strong></summary>
 
   <div align="center">
-    <img src=".github/assets/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="640"/>
+    <img src="assets/images/screenshots/greencircuit-main.png" alt="GreenCircuit route optimization" width="640"/>
   </div>
 
-- **What it is:** Pixel-art game about protecting and reforesting a forest; resource management and combat.
-- **Tech:** C++14, C++/CLI, Windows Forms, System::Drawing; basic audio and persistence.
-- **Highlights:** Solid game loop (states/input/timing), reforestation mechanics, UI screens, sound effects/music.
-- **Link:** [Repo](https://github.com/trinity-bytes/ForestHero2)
+- **What it is:** Web app to optimize urban waste collection routes using TSP, with interactive visualization and metrics (distance, time, CO₂).
+- **Tech:** JavaScript, graph algorithms, data visualization.
+- **Highlights:** Route optimization, sustainability metrics, interactive map.
+- **Links:** [Repo](https://github.com/trinity-bytes/GreenCircuit)
 
-<!-- markdownlint-enable MD033 -->
 </details>
 
 ## 📊 Quick Stats
@@ -70,20 +84,6 @@
 - :computer: **Primary Language:** C++ (Intermediate/Advanced)
 - :mag: **Seeking:** Software Engineering Internships
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
-
-<!-- markdownlint-disable MD033 -->
-<div align="center">
-  <a href="https://github.com/trinity-bytes">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" />
-  </a>
-  <br/>
-  <a href="https://github.com/trinity-bytes">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" />
-  </a>
-</div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -116,9 +116,9 @@ Here are the technologies I work with and am familiar with:
 
 <!-- markdownlint-disable MD033 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gifs/about-me-coding-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/gifs/about-me-coding-light.gif" />
-  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src=".github/assets/gifs/about-me-coding-light.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/about-me-coding-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/gifs/about-me-coding-light.gif" />
+  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src="assets/gifs/about-me-coding-light.gif" />
 </picture>
 <!-- markdownlint-enable MD033 -->
 
