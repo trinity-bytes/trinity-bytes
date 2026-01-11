@@ -19,14 +19,27 @@
 ## About Me 🎯
 
 <!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures.
+
+I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative.
+
+Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
+
+</td>
+<td width="40%" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/about-me-coding-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="assets/gifs/about-me-coding-light.gif" />
-  <img align="right" alt="Animated illustration of a person coding at a desk (looping GIF)" width="350" src="assets/gifs/about-me-coding-light.gif" />
+  <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="100%" src="assets/gifs/about-me-coding-light.gif" />
 </picture>
+</td>
+</tr>
+</table>
 <!-- markdownlint-enable MD033 -->
-
-Software Engineering student focused on C++ backend and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures. I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative. Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
 
 ## 📊 Quick Stats
 
