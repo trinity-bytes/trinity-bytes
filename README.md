@@ -35,7 +35,7 @@ I enjoy building console-first apps with intuitive UX and clean separation of co
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/about-me-coding-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="assets/gifs/about-me-coding-light.gif" />
-  <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="400" src="assets/gifs/about-me-coding-light.gif" />
+  <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="380" src="assets/gifs/about-me-coding-light.gif" />
 </picture>
 
 </div>
@@ -71,7 +71,7 @@ I enjoy building console-first apps with intuitive UX and clean separation of co
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ CourseraClone
+### 📚 CourseraClone
 
 <div align="center">
   <img src="assets/images/screenshots/coursera-clone-main.png" alt="CourseraClone console UI" width="100%"/>
@@ -92,7 +92,7 @@ Console-based LMS with users, courses, enrollments, payments and QR certificates
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Mink'a Landing
+### 🍃 Mink'a Landing
 
 <div align="center">
   <img src="assets/images/screenshots/minka-landing-home.png" alt="Mink'a Landing Page" width="100%"/>
@@ -123,7 +123,7 @@ Landing page for a community bartering platform under a circular economy model.
 <img src="assets/images/screenshots/allinband-landing.png" alt="AllinBand Landing Page" width="100%"/>
 
 <details>
-<summary><strong>💚 AllinBand Landing</strong> · IoT Wearable</summary>
+<summary><strong>💙 AllinBand Landing</strong> · IoT Wearable</summary>
 
 Landing page for a smart wristband for vital signs monitoring and emergency detection with ML.
 
