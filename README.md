@@ -20,12 +20,15 @@
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
+<table><tr><td width="660">
 
 Software Engineering student focused on **C++ backend** and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures.
 
 I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative.
 
 **Currently seeking an internship** to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
+
+</td></tr></table>
 
 <br/>
 
