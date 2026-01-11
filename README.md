@@ -6,11 +6,15 @@
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">Resume (PDF)</a>
-  •
-  <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a>
-  •
-  <a href="mailto:jahatjassiel@outlook.com">Email</a>
+  <a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">
+    <img src="https://img.shields.io/badge/Resume_(PDF)-4A90D9?style=for-the-badge" alt="Resume (PDF)"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trinitybytes">
+    <img src="https://img.shields.io/badge/LinkedIn-4A90D9?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jahatjassiel@outlook.com">
+    <img src="https://img.shields.io/badge/Email-4A90D9?style=for-the-badge" alt="Email"/>
+  </a>
 </div>
 <!-- markdownlint-enable MD033 -->
 
