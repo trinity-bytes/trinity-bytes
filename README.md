@@ -51,10 +51,14 @@ Currently seeking an internship to apply my C++ skills (plus basic JS/HTML/CSS) 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
   <a href="https://cyprieng.github.io/github-breakout/?user=trinity-bytes">
-    <img src="assets/images/breakout/breakout.svg" alt="GitHub Breakout - Click to play!" width="480"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/breakout/breakout-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/images/breakout/breakout-light.svg" />
+      <img alt="GitHub Breakout - Click to play!" src="assets/images/breakout/breakout-light.svg" width="480"/>
+    </picture>
   </a>
   <br/>
-  <sub>🎮 Click to play Breakout with my contribution graph!</sub>
+
 </div>
 <!-- markdownlint-enable MD033 -->
 
