@@ -20,7 +20,7 @@
 
 ---
 
-## About Me 🎯
+## 🎯 About Me
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
@@ -50,11 +50,23 @@ I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **T
 ## 📊 Quick Stats
 
 - :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
-- :computer: **Primary Language:** C++ (Intermediate/Advanced)
 - :mag: **Seeking:** Software Engineering Internships
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
 
 <!-- markdownlint-disable MD033 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" height="180"/>
+  </picture>
+</div>
+
 <div align="center">
   <a href="https://cyprieng.github.io/github-breakout/?user=trinity-bytes">
     <picture>
@@ -77,10 +89,12 @@ I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **T
 <tr>
 <td width="50%" valign="top">
 
-### 📚 CourseraClone
+### CourseraClone
 
 <div align="center">
-  <img src="assets/images/screenshots/coursera-clone-main.png" alt="CourseraClone console UI" width="100%"/>
+  <a href="https://github.com/trinity-bytes/CourseraClone">
+    <img src="assets/images/screenshots/coursera-clone-main.png" alt="CourseraClone console UI" width="100%"/>
+  </a>
 </div>
 
 **C++ Educational Platform**
@@ -98,10 +112,12 @@ Console-based LMS with users, courses, enrollments, payments and QR certificates
 </td>
 <td width="50%" valign="top">
 
-### 🍃 Mink'a Landing
+### Mink'a Landing
 
 <div align="center">
-  <img src="assets/images/screenshots/minka-landing-home.png" alt="Mink'a Landing Page" width="100%"/>
+  <a href="https://github.com/Reflow-Tech-UPC/Minka-Landingpage">
+    <img src="assets/images/screenshots/minka-landing-home.png" alt="Mink'a Landing Page" width="100%"/>
+  </a>
 </div>
 
 **Circular Economy Platform**
@@ -126,7 +142,9 @@ Landing page for a community bartering platform under a circular economy model.
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="assets/images/screenshots/allinband-landing.png" alt="AllinBand Landing Page" width="100%"/>
+<a href="https://github.com/trinity-bytes/AllinBand-Landing">
+  <img src="assets/images/screenshots/allinband-landing.png" alt="AllinBand Landing Page" width="100%"/>
+</a>
 
 <details>
 <summary><strong>AllinBand Landing</strong> · IoT Wearable</summary>
@@ -142,7 +160,9 @@ Landing page for a smart wristband for vital signs monitoring and emergency dete
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="assets/images/screenshots/greencircuit-main.png" alt="GreenCircuit" width="100%"/>
+<a href="https://github.com/trinity-bytes/GreenCircuit">
+  <img src="assets/images/screenshots/greencircuit-main.png" alt="GreenCircuit" width="100%"/>
+</a>
 
 <details>
 <summary><strong>GreenCircuit</strong> · Route Optimizer</summary>
@@ -160,7 +180,9 @@ Web app to optimize urban waste collection routes using TSP with interactive vis
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="assets/images/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW graph visualization" width="100%"/>
+<a href="https://github.com/trinity-bytes/CurriculumFLOW">
+  <img src="assets/images/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW graph visualization" width="100%"/>
+</a>
 
 <details>
 <summary><strong>CurriculumFLOW</strong> · Academic Pathways</summary>
@@ -176,7 +198,9 @@ Visualize prerequisites and generate valid study plans with topological sorting.
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="assets/images/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="100%"/>
+<a href="https://github.com/trinity-bytes/ForestHero2">
+  <img src="assets/images/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="100%"/>
+</a>
 
 <details>
 <summary><strong>ForestHero2</strong> · 2D Adventure Game</summary>
