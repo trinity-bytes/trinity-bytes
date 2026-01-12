@@ -129,7 +129,7 @@ Landing page for a community bartering platform under a circular economy model.
 <img src="assets/images/screenshots/allinband-landing.png" alt="AllinBand Landing Page" width="100%"/>
 
 <details>
-<summary><strong>💙 AllinBand Landing</strong> · IoT Wearable</summary>
+<summary><strong>AllinBand Landing</strong> · IoT Wearable</summary>
 
 Landing page for a smart wristband for vital signs monitoring and emergency detection with ML.
 
@@ -145,7 +145,7 @@ Landing page for a smart wristband for vital signs monitoring and emergency dete
 <img src="assets/images/screenshots/greencircuit-main.png" alt="GreenCircuit" width="100%"/>
 
 <details>
-<summary><strong>♻️ GreenCircuit</strong> · Route Optimizer</summary>
+<summary><strong>GreenCircuit</strong> · Route Optimizer</summary>
 
 Web app to optimize urban waste collection routes using TSP with interactive visualization.
 
@@ -163,7 +163,7 @@ Web app to optimize urban waste collection routes using TSP with interactive vis
 <img src="assets/images/screenshots/curriculum-flow-graph.png" alt="CurriculumFLOW graph visualization" width="100%"/>
 
 <details>
-<summary><strong>🌐 CurriculumFLOW</strong> · Academic Pathways</summary>
+<summary><strong>CurriculumFLOW</strong> · Academic Pathways</summary>
 
 Visualize prerequisites and generate valid study plans with topological sorting.
 
@@ -179,7 +179,7 @@ Visualize prerequisites and generate valid study plans with topological sorting.
 <img src="assets/images/screenshots/forest-hero-gameplay.png" alt="ForestHero2 pixel-art gameplay" width="100%"/>
 
 <details>
-<summary><strong>🎮 ForestHero2</strong> · 2D Adventure Game</summary>
+<summary><strong>ForestHero2</strong> · 2D Adventure Game</summary>
 
 Pixel-art game about protecting and reforesting a forest; resource management and combat.
 
