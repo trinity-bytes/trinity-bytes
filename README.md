@@ -2,7 +2,7 @@
 <h1 align="center"><img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | Developer & Problem Solver</h1>
 <!-- markdownlint-enable MD033 -->
 
-> C++ backend and algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
+> C++, databases & algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
@@ -26,11 +26,13 @@
 <div align="center">
 <table><tr><td width="660">
 
-Software Engineering student focused on **C++ backend** and enterprise systems. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures.
+Software Engineering student focused on **C++**, **databases**, and **UI/UX design**. I turn ambiguous problems into clear, robust designs with strong data structures, algorithms, and layered architectures.
 
-I enjoy building console-first apps with intuitive UX and clean separation of concerns. Curious, detail‑oriented, and collaborative.
+Experienced in **SQL** (triggers, stored procedures, transactions), **relational DB modeling** (conceptual → logical → physical), and **graph algorithms** (TSP, max flow, Dijkstra). I design wireframes and mockups in Figma, then implement them as responsive web pages.
 
-**Currently seeking an internship** to apply my C++ skills (plus basic JS/HTML/CSS) in a real product environment.
+I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **Trello** for sprint-based project management. Curious, detail‑oriented, and collaborative.
+
+**Currently seeking an internship** to apply my C++, SQL, and frontend skills in a real product environment.
 
 </td></tr></table>
 
@@ -196,28 +198,17 @@ Pixel-art game about protecting and reforesting a forest; resource management an
 
 ## 🛠️ My Technical Skills
 
-Core strengths
-
-- Strong C++ abstractions: data structures and algorithms from scratch (AVL, Hash, Heap, BST, linked lists).
-- Product-thinking + systems design: layered architecture, clear separation of concerns, and console UI that feels intuitive.
-- Practical graph work: topological sort (Kahn) and Hasse reduction with CSV/JSON exports and basic A11y.
-
-Core skills for C++ backend
-
-- Strong: C++17, STL, DS/algorithms, RAII, file I/O, modular design.
-- Solid: Patterns (MVC/Strategy/Factory), exceptions, MSVC/Visual Studio, Git.
-- Basic: SQLite, JS/HTML/CSS, GitHub Actions, Linux fundamentals.
-
-Here are the technologies I work with and am familiar with:
+Here are the technologies I work with:
 
 | Category                     | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**                | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white) |
 | **Frontend**                 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/-Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)                                                                                                                                         |
 | **Backend & Runtime**        | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Databases**                | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)                                                                                                                                                                                                                    |
+| **Databases**                | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                               |
 | **Libraries**                | ![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)                                                                                                                                                                                                                                                                                                                 |
 | **DevOps & Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                             |
+| **Project Management & IoT** | ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **IDEs & Editors**           | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)                                                                                                                                                                             |
 | **Design & AI Tools**        | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)                                                                                                                                                                                                         |
 
