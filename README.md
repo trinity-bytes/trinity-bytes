@@ -56,14 +56,14 @@ I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **T
 <!-- markdownlint-disable MD033 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
-    <img alt="Top Languages" src="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&layout=compact" height="180"/>
   </picture>
 </div>
 
