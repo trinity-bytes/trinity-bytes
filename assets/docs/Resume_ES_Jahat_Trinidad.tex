@@ -1,0 +1,101 @@
+\documentclass[a4paper,11pt]{article}
+
+% Paquetes para formato y codificación
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage[left=1.5cm,top=1.5cm,right=1.5cm,bottom=1.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% Configuración de enlaces
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={CV - Jahat Trinidad},
+}
+
+% Formato de secciones
+\titleformat{\section}
+{\Large\bfseries\uppercase}
+{}
+{0em}
+{}[\titlerule]
+
+\titlespacing{\section}{0pt}{10pt}{6pt}
+
+% Comando para items de experiencia/proyectos
+\newcommand{\entryItem}[4]{
+    \noindent \textbf{#1} \hfill \textbf{#2} \\
+    \textit{#3} \hfill \textit{#4}
+}
+
+\begin{document}
+
+% --- ENCABEZADO ---
+\begin{center}
+    {\Huge \textbf{Jahat Jassiel Trinidad Leon}} \\ [0.25cm]
+    Lima, Perú \\[0.1cm]
+    \href{mailto:jahatjassiel@outlook.com}{jahatjassiel@outlook.com} | +51 912 506 265 | \href{https://linkedin.com/in/trinitybytes}{linkedin.com/in/trinitybytes}
+\end{center}
+
+% --- PERFIL ---
+\section{Perfil Profesional}
+Estudiante de Ingeniería de Software especializado en \textbf{C++}, \textbf{desarrollo Full Stack} y \textbf{bases de datos}. Experiencia liderando equipos de hasta 6 personas con Scrum y GitFlow. Desarrollo de 12+ proyectos: desde aplicaciones CLI con estructuras de datos avanzadas (AVL, grafos, heap) hasta plataformas web con React y TypeScript. Busco pasantía para aplicar mis habilidades en C++, SQL y desarrollo web.
+
+% --- EDUCACIÓN ---
+\section{Educación}
+\noindent \textbf{Universidad Peruana de Ciencias Aplicadas (UPC)} \hfill Lima, Perú \\
+\textit{Ingeniería de Software} \hfill 2024 -- Presente (Graduación est: 2028) \\
+\textbf{Cursos Clave:} Algoritmos y Estructuras de Datos, Diseño de Bases de Datos, Desarrollo Web, Patrones de Software.
+
+% --- HABILIDADES TÉCNICAS ---
+\section{Habilidades Técnicas}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Lenguajes:} C++17/STL (Avanzado), TypeScript, JavaScript ES6+, SQL, HTML5, CSS3.
+    \item \textbf{Frontend \& Backend:} React, Node.js, Tailwind CSS, Bootstrap 5, Cytoscape.js.
+    \item \textbf{Bases de Datos:} SQL Server, MongoDB. Triggers, stored procedures, modelado relacional.
+    \item \textbf{Algoritmos \& ED:} AVL, Hash, Heaps, Grafos. TSP, Dijkstra, ordenamiento topológico.
+    \item \textbf{DevOps \& Herramientas:} Git, GitHub, GitFlow, GitHub Actions (CI/CD), Figma, Linux.
+    \item \textbf{Idiomas:} Español (Nativo), Inglés (B1), Portugués (A2).
+\end{itemize}
+
+% --- PROYECTOS DESTACADOS ---
+\section{Proyectos Destacados}
+
+\entryItem{CourseraClone - Plataforma Educativa en C++}{}{Product Owner \& Lead Dev (Equipo de 3)}{2024-2025}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item LMS completo en \textbf{C++17}: usuarios, cursos, pagos y certificados QR. \textbf{12+ estructuras de datos} (AVL, Hash, Grafos).
+    \item Arquitectura MVC, RAII, persistencia JSON. Microservicios web con \textbf{React + TypeScript + Node.js}.
+\end{itemize}
+
+\entryItem{Mink'a - Plataforma de Economía Circular}{}{Líder de Proyecto (Equipo de 6)}{2025}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Lideré desarrollo web end-to-end con \textbf{Scrum} (6 sprints, \textbf{140+ commits}, 6 releases).
+    \item Diseño UX/UI en Figma, \textbf{GitFlow} completo, CI/CD con GitHub Actions, deploy en GitHub Pages.
+\end{itemize}
+
+\noindent\textit{Más proyectos: GreenCircuit (TSP), CurriculumFLOW, ForestHero2 $\rightarrow$ \href{https://github.com/trinity-bytes}{github.com/trinity-bytes}}
+
+% --- EXPERIENCIA PROFESIONAL ---
+\section{Experiencia}
+
+\entryItem{Asociación Educativa Adventista Sur Oriental del Perú}{Madre de Dios}{Profesor de Computación}{Mar -- Dic 2023}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Enseñé programación web básica y herramientas digitales a estudiantes de secundaria.
+\end{itemize}
+
+\entryItem{Subgerencia de Seguridad Ciudadana - MPO}{Oxapampa}{Monitor de Vigilancia \& Community Manager}{Ago 2022 -- Feb 2023}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Gestión de redes sociales institucionales y monitoreo de sistemas de videovigilancia.
+\end{itemize}
+
+% --- VOLUNTARIADO ---
+\section{Voluntariado}
+\noindent \textbf{Municipalidad Provincial de Oxapampa} \hfill 2023 \\
+\textit{Promotor Ambiental Juvenil (100 Horas)}
+
+\end{document}

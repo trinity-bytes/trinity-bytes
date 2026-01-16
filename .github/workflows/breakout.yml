@@ -23,9 +23,9 @@ jobs:
 
       - name: Move generated SVGs
         run: |
-          mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
+          mkdir -p assets/images/breakout
+          mv output/light.svg assets/images/breakout/breakout-light.svg
+          mv output/dark.svg assets/images/breakout/breakout-dark.svg
 
       - name: Configure git
         run: |
@@ -34,6 +34,6 @@ jobs:
 
       - name: Commit and push SVGs
         run: |
-          git add images/breakout-light.svg images/breakout-dark.svg
+          git add assets/images/breakout/breakout-light.svg assets/images/breakout/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push

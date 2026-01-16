@@ -1,0 +1,101 @@
+\documentclass[a4paper,11pt]{article}
+
+% Packages for formatting and encoding
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage[left=1.5cm,top=1.5cm,right=1.5cm,bottom=1.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% Link configuration
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Resume - Jahat Trinidad},
+}
+
+% Section formatting
+\titleformat{\section}
+{\Large\bfseries\uppercase}
+{}
+{0em}
+{}[\titlerule]
+
+\titlespacing{\section}{0pt}{10pt}{6pt}
+
+% Command for experience/project entries
+\newcommand{\entryItem}[4]{
+    \noindent \textbf{#1} \hfill \textbf{#2} \\
+    \textit{#3} \hfill \textit{#4}
+}
+
+\begin{document}
+
+% --- HEADER ---
+\begin{center}
+    {\Huge \textbf{Jahat Jassiel Trinidad Leon}} \\ [0.25cm]
+    Lima, Peru \\[0.1cm]
+    \href{mailto:jahatjassiel@outlook.com}{jahatjassiel@outlook.com} | +51 912 506 265 | \href{https://linkedin.com/in/trinitybytes}{linkedin.com/in/trinitybytes}
+\end{center}
+
+% --- PROFILE ---
+\section{Professional Profile}
+Software Engineering student specialized in \textbf{C++}, \textbf{Full Stack development} and \textbf{databases}. Experience leading teams of up to 6 people using Scrum and GitFlow. Developed 12+ projects: from CLI applications with advanced data structures (AVL, graphs, heap) to web platforms with React and TypeScript. Seeking an internship to apply my skills in C++, SQL and web development.
+
+% --- EDUCATION ---
+\section{Education}
+\noindent \textbf{Universidad Peruana de Ciencias Aplicadas (UPC)} \hfill Lima, Peru \\
+\textit{Software Engineering} \hfill 2024 -- Present (Expected graduation: 2028) \\
+\textbf{Key Courses:} Algorithms and Data Structures, Database Design, Web Development, Software Patterns.
+
+% --- TECHNICAL SKILLS ---
+\section{Technical Skills}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Languages:} C++17/STL (Advanced), TypeScript, JavaScript ES6+, SQL, HTML5, CSS3.
+    \item \textbf{Frontend \& Backend:} React, Node.js, Tailwind CSS, Bootstrap 5, Cytoscape.js.
+    \item \textbf{Databases:} SQL Server, MongoDB. Triggers, stored procedures, relational modeling.
+    \item \textbf{Algorithms \& DS:} AVL, Hash, Heaps, Graphs. TSP, Dijkstra, topological sorting.
+    \item \textbf{DevOps \& Tools:} Git, GitHub, GitFlow, GitHub Actions (CI/CD), Figma, Linux.
+    \item \textbf{Languages:} Spanish (Native), English (B1), Portuguese (A2).
+\end{itemize}
+
+% --- FEATURED PROJECTS ---
+\section{Featured Projects}
+
+\entryItem{CourseraClone - Educational Platform in C++}{}{Product Owner \& Lead Dev (Team of 3)}{2024-2025}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Complete LMS in \textbf{C++17}: users, courses, payments and QR certificates. \textbf{12+ data structures} (AVL, Hash, Graphs).
+    \item MVC architecture, RAII, JSON persistence. Web microservices with \textbf{React + TypeScript + Node.js}.
+\end{itemize}
+
+\entryItem{Mink'a - Circular Economy Platform}{}{Project Lead (Team of 6)}{2025}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Led end-to-end web development with \textbf{Scrum} (6 sprints, \textbf{140+ commits}, 6 releases).
+    \item UX/UI design in Figma, complete \textbf{GitFlow}, CI/CD with GitHub Actions, GitHub Pages deployment.
+\end{itemize}
+
+\noindent\textit{More projects: GreenCircuit (TSP), CurriculumFLOW, ForestHero2 $\rightarrow$ \href{https://github.com/trinity-bytes}{github.com/trinity-bytes}}
+
+% --- PROFESSIONAL EXPERIENCE ---
+\section{Experience}
+
+\entryItem{Asociacion Educativa Adventista Sur Oriental del Peru}{Madre de Dios}{Computer Science Teacher}{Mar -- Dec 2023}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Taught basic web programming and digital tools to high school students.
+\end{itemize}
+
+\entryItem{Subgerencia de Seguridad Ciudadana - MPO}{Oxapampa}{Surveillance Monitor \& Community Manager}{Aug 2022 -- Feb 2023}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item Managed institutional social media and video surveillance systems monitoring.
+\end{itemize}
+
+% --- VOLUNTEERING ---
+\section{Volunteering}
+\noindent \textbf{Municipalidad Provincial de Oxapampa} \hfill 2023 \\
+\textit{Youth Environmental Promoter (100 Hours)}
+
+\end{document}
