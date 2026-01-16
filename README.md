@@ -6,7 +6,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">
+  <a href="assets/docs/Resume_EN_Jahat_Trinidad.pdf">
     <img src="https://img.shields.io/badge/Resume_(PDF)-4A90D9?style=for-the-badge" alt="Resume (PDF)"/>
   </a>
   <a href="https://www.linkedin.com/in/trinitybytes">
@@ -15,6 +15,8 @@
   <a href="mailto:jahatjassiel@outlook.com">
     <img src="https://img.shields.io/badge/Email-4A90D9?style=for-the-badge" alt="Email"/>
   </a>
+  <br/>
+  <sub><a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">Versión en español del CV</a></sub>
 </div>
 <!-- markdownlint-enable MD033 -->
 
