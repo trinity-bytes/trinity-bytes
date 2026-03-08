@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Light SVG (Catppuccin Latte)
-        uses: cyprieng/github-breakout@v1.0.0
+        uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           output_path: output-light
@@ -26,7 +26,7 @@ jobs:
           bricks_colors: "#ccd0da,#40a02b,#179299,#1e66f5,#8839ef"
 
       - name: Generate Dark SVG (Catppuccin Mocha)
-        uses: cyprieng/github-breakout@v1.0.0
+        uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           output_path: output-dark
