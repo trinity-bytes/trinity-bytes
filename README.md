@@ -1,6 +1,4 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center"><img alt="Waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm Jahat | Developer & Problem Solver</h1>
-<!-- markdownlint-enable MD033 -->
+# Hi! I'm Jahat, a developer & problem solver
 
 > C++, databases & algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
 
@@ -22,7 +20,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
@@ -49,7 +47,7 @@ I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **T
 </div>
 <!-- markdownlint-enable MD033 -->
 
-## 📊 Quick Stats
+## Quick Stats
 
 - :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
 - :mag: **Seeking:** Software Engineering Internships
@@ -84,7 +82,7 @@ I've led a team of 6 using **GitFlow** (branches, issues, PRs, releases) and **T
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- markdownlint-disable MD033 -->
 <table>
@@ -107,7 +105,7 @@ Console-based LMS with users, courses, enrollments, payments and QR certificates
 
 **Role:** Product owner & lead dev. Team of 3.
 
-✨ 12+ custom data structures · QR certificates · Financial ledger
+12+ custom data structures · QR certificates · Financial ledger
 
 [📂 Repo](https://github.com/trinity-bytes/CourseraClone)
 
@@ -130,7 +128,7 @@ Landing page for a community bartering platform under a circular economy model.
 
 **Role:** Core contributor & integration lead. Team of 6.
 
-✨ Responsive + A11y · CI/CD · 140+ commits, 6 releases
+Responsive + A11y · CI/CD · 140+ commits, 6 releases
 
 [📂 Repo](https://github.com/Reflow-Tech-UPC/Minka-Landingpage) · [🌐 Live](https://reflow-tech-upc.github.io/Minka-Landingpage/)
 
@@ -222,7 +220,7 @@ Pixel-art game about protecting and reforesting a forest; resource management an
 
 ---
 
-## 🛠️ My Technical Skills
+## My Technical Skills
 
 Here are the technologies I work with:
 
