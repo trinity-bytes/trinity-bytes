@@ -10,7 +10,7 @@
   </a>
   -->
   <a href="assets/docs/Resume_EN_Jahat_Trinidad.pdf">
-    <img src="https://img.shields.io/badge/Resume_(PDF)-4A90D9?style=for-the-badge" alt="Resume (PDF)"/>
+    <img src="https://img.shields.io/badge/Resume_(PDF)-4A90D9?style=for-the-badge" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/trinitybytes">
     <img src="https://img.shields.io/badge/LinkedIn-4A90D9?style=for-the-badge" alt="LinkedIn"/>
@@ -18,8 +18,6 @@
   <a href="mailto:jahatjassiel@outlook.com">
     <img src="https://img.shields.io/badge/Email-4A90D9?style=for-the-badge" alt="Email"/>
   </a>
-  <br/>
-  <sub><a href="assets/docs/Resume_ES_Jahat_Trinidad.pdf">Versión en español del CV</a></sub>
 </div>
 <!-- markdownlint-enable MD033 -->
 
@@ -27,22 +25,31 @@
 
 ## About Me
 
+<!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 Software Engineering student focused on **C++**, **databases**, and **UI/UX design**. I turn ambiguous problems into clear, robust designs — and I've led a 6-person team using GitFlow and sprint-based management.
 
 **Currently seeking an internship** to apply my C++, SQL, and frontend skills in a real product environment.
 
-<!-- markdownlint-disable MD033 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
-    <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="260" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
-  </picture>
-</div>
-<!-- markdownlint-enable MD033 -->
-
 - :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
+  <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="260" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
+</picture>
+
+</td>
+</tr>
+</table>
+<!-- markdownlint-enable MD033 -->
 
 ## Stats
 
@@ -80,44 +87,44 @@ Software Engineering student focused on **C++**, **databases**, and **UI/UX desi
 <tr>
 <td width="50%" valign="top">
 
-### CourseraClone
+### Viora
 
 <div align="center">
-  <a href="https://github.com/trinity-bytes/CourseraClone">
-    <img src="assets/images/screenshots/coursera-clone-main.png" alt="CourseraClone console UI" width="100%"/>
+  <a href="https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp">
+    <img src="assets/images/screenshots/viora-dashboard.png" alt="Viora Dashboard" width="100%"/>
   </a>
 </div>
 
-**C++ Educational Platform**
+**Agricultural Monitoring Platform**
 
-Console-based LMS with users, courses, enrollments, payments and QR certificates.
+Full-stack web app for real-time crop monitoring: NDVI analytics, IoT sensor data, weather integration, yield forecasts, and interactive Mapbox maps.
 
-**Tech:** C++17, STL, AVL/Hash/Heap, MVC, RAII
+**Tech:** Angular 21, TypeScript, SCSS, Spring Boot 4, Java 26, PostgreSQL, Spring Security, JWT, Docker, Firebase, Mapbox GL, Chart.js
 
-**Role:** Product owner & lead dev. Team of 3.
+**Role:** Full-stack contributor (frontend & backend). Team project.
 
-[📂 Repo](https://github.com/trinity-bytes/CourseraClone)
+[📂 Repo](https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp) - [🌐 Live](https://viora-webapp.web.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### Mink'a Landing
+### Mink'a
 
 <div align="center">
   <a href="https://github.com/Reflow-Tech-UPC/Minka-Landingpage">
-    <img src="assets/images/screenshots/minka-landing-home.png" alt="Mink'a Landing Page" width="100%"/>
+    <img src="assets/images/screenshots/minka-landing.png" alt="Mink'a Landing Page" width="100%"/>
   </a>
 </div>
 
 **Circular Economy Platform**
 
-Landing page for a community bartering platform under a circular economy model.
+A community bartering platform under a circular economy model.
 
 **Tech:** HTML5, CSS3, JS ES6+, GitHub Actions
 
 **Role:** Core contributor & integration lead. Team of 6.
 
-[📂 Repo](https://github.com/Reflow-Tech-UPC/Minka-Landingpage) · [🌐 Live](https://reflow-tech-upc.github.io/Minka-Landingpage/)
+[📂 Repo](https://github.com/trinity-bytes/minka) - [🌐 Live](https://trinity-bytes.github.io/minka/)
 
 </td>
 </tr>
