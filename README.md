@@ -131,6 +131,6 @@ A community bartering platform under a circular economy model.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect! 🚀
+Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect on [linkedin](https://www.linkedin.com/in/trinitybytes)! 🚀
 </div>
 <!-- markdownlint-enable MD033 -->
