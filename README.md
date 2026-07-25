@@ -15,7 +15,6 @@
 </div>
 <!-- markdownlint-enable MD033 -->
 
-
 ## About Me
 
 <!-- markdownlint-disable MD033 -->
@@ -70,8 +69,6 @@ Software Engineering student focused on **C++**, **databases**, and **UI/UX desi
   </a>
 </div>
 <!-- markdownlint-enable MD033 -->
-
----
 
 ## Featured Projects
 
