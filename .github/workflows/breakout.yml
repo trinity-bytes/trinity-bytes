@@ -16,23 +16,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Light SVG (Catppuccin Latte)
+      - name: Generate Light SVG (Mauve Latte)
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           output_path: output-light
-          paddle_color: "#1e66f5"
-          ball_color: "#ea76cb"
-          bricks_colors: "#ccd0da,#40a02b,#179299,#1e66f5,#8839ef"
+          paddle_color: "#8839ef"
+          ball_color: "#4c4f69"
+          bricks_colors: "#e6e9ef,#cab4ef,#b288ef,#9b5cef,#8839ef"
 
-      - name: Generate Dark SVG (Catppuccin Mocha)
+      - name: Generate Dark SVG (Mauve Mocha)
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           output_path: output-dark
-          paddle_color: "#89b4fa"
-          ball_color: "#f5c2e7"
-          bricks_colors: "#313244,#a6e3a1,#94e2d5,#89b4fa,#cba6f7"
+          paddle_color: "#cba6f7"
+          ball_color: "#cdd6f4"
+          bricks_colors: "#313244,#5f557a,#8672a6,#ac8fd3,#cba6f7"
 
       - name: Move generated SVGs
         run: |

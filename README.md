@@ -67,14 +67,14 @@ I care about accessibility, performance, and code that stays easy to change, so 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-lake-chi-49.vercel.app/api?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pro-github-stats.vercel.app/api?username=trinity-bytes&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://pro-github-stats.vercel.app/api?username=trinity-bytes&bg_color=eff1f5&title_color=8839ef&text_color=4c4f69&icon_color=8839ef&ring_color=8839ef&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://pro-github-stats.vercel.app/api?username=trinity-bytes&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_latte&hide_border=true&layout=compact" />
-    <img alt="Top Languages" src="https://github-readme-stats-lake-chi-49.vercel.app/api/top-langs/?username=trinity-bytes&theme=catppuccin_mocha&hide_border=true&layout=compact" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pro-github-stats.vercel.app/api/top-langs/?username=trinity-bytes&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&hide_border=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://pro-github-stats.vercel.app/api/top-langs/?username=trinity-bytes&bg_color=eff1f5&title_color=8839ef&text_color=4c4f69&icon_color=8839ef&ring_color=8839ef&hide_border=true&layout=compact" />
+    <img alt="Top Languages" src="https://pro-github-stats.vercel.app/api/top-langs/?username=trinity-bytes&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&hide_border=true&layout=compact" height="180"/>
   </picture>
 </div>
 
