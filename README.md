@@ -1,6 +1,6 @@
-# Hi! I'm Jahat, a developer & problem solver
+# Hi! I'm Jahat, a software engineer in the making
 
-> C++, databases & algorithms — I focus on clear abstractions, creative problem solving, and efficient systems.
+> I build web and Android products end to end: accessible interfaces, thoughtful motion, and clean architecture underneath.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge" alt="Portfolio"/>
   </a>
   -->
-  <a href="assets/docs/Resume_EN_Jahat_Trinidad.pdf">
-    <img src="https://img.shields.io/badge/Resume-4A90D9?style=for-the-badge" alt="Resume"/>
-  </a>
 </div>
 <!-- markdownlint-enable MD033 -->
 
@@ -22,9 +19,11 @@
 <tr>
 <td width="65%" valign="middle">
 
-Software Engineering student focused on **C++**, **databases**, and **UI/UX design**. I turn ambiguous problems into clear, robust designs — and I've led a 6-person team using GitFlow and sprint-based management.
+Software Engineering student at **UPC** who enjoys turning ideas into products people can actually use. These days I spend most of my time on **TypeScript** web apps with **Astro** and **React**, and on native **Android** apps with **Kotlin** and **Jetpack Compose**.
 
-**Currently seeking an internship** to apply my C++, SQL, and frontend skills in a real product environment.
+I care about accessibility, performance, and code that stays easy to change, so I lean on clean architecture and tests. My roots are in **C++** and algorithms, and I've led a 6-person team using GitFlow and Scrum.
+
+**Currently seeking an internship** where I can ship web or mobile features in a real product team.
 
 - :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
@@ -41,6 +40,26 @@ Software Engineering student focused on **C++**, **databases**, and **UI/UX desi
 </td>
 </tr>
 </table>
+<!-- markdownlint-enable MD033 -->
+
+## Tech Stack
+
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,astro,react,nextjs,vue,angular,tailwind&perline=10" alt="TypeScript, JavaScript, HTML, CSS, Astro, React, Next.js, Vue, Angular, Tailwind CSS"/>
+
+**Mobile & Backend**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,spring,java,python,postgres,firebase&perline=10" alt="Kotlin, Android Studio, Spring Boot, Java, Python, PostgreSQL, Firebase"/>
+
+**Foundations & Tools**
+
+<img src="https://skillicons.dev/icons?i=cpp,git,githubactions,docker,linux,vitest,figma&perline=10" alt="C++, Git, GitHub Actions, Docker, Linux, Vitest, Figma"/>
+
+</div>
 <!-- markdownlint-enable MD033 -->
 
 ## Stats
@@ -77,23 +96,28 @@ Software Engineering student focused on **C++**, **databases**, and **UI/UX desi
 <tr>
 <td width="50%" valign="top">
 
-### Viora
+### AllinBand
 
 <div align="center">
-  <a href="https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp">
-    <img src="assets/images/screenshots/viora-dashboard.png" alt="Viora Dashboard" width="100%"/>
+  <a href="https://allin.jahattrinidad.com/">
+    <img src="assets/images/screenshots/allinband-landing.jpg" alt="AllinBand landing page" width="100%"/>
   </a>
 </div>
 
-**Agricultural Monitoring Platform**
+**Smart Wristband for Emergency Detection**
 
-Full-stack web app for real-time crop monitoring: NDVI analytics, IoT sensor data, weather integration, yield forecasts, and interactive Mapbox maps.
+Official landing page for a smart wristband concept that monitors vital signs, asks the wearer if they are okay, and alerts family and a health center if they don't respond.
 
-**Tech:** Angular 21, TypeScript, SCSS, Spring Boot 4, Java 26, PostgreSQL, Spring Security, JWT, Docker, Firebase, Mapbox GL, Chart.js
+- Static site with zero dependencies and no build step
+- Scroll-driven horizontal journey and pointer-depth hero, animated with `transform`, `opacity`, and SVG strokes only
+- Fully readable without JavaScript; respects `prefers-reduced-motion`
+- Targets WCAG 2.2 AA; browser tests with Playwright
 
-**Role:** Full-stack contributor (frontend & backend). Team project.
+**Tech:** HTML5, CSS3, JavaScript, SVG, Playwright
 
-[📂 Repo](https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp) - [🌐 Live](https://viora-webapp.web.app/)
+**Role:** Development & UX. Team of 4 (Computer Architecture course, UPC).
+
+[📂 Repo](https://github.com/trinity-bytes/allin-band) - [🌐 Live](https://allin.jahattrinidad.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -101,25 +125,37 @@ Full-stack web app for real-time crop monitoring: NDVI analytics, IoT sensor dat
 ### Mink'a
 
 <div align="center">
-  <a href="https://github.com/Reflow-Tech-UPC/Minka-Landingpage">
-    <img src="assets/images/screenshots/minka-landing.png" alt="Mink'a Landing Page" width="100%"/>
+  <a href="https://minka.jahattrinidad.com/">
+    <img src="assets/images/screenshots/minka-landing.webp" alt="Mink'a landing page" width="100%"/>
   </a>
 </div>
 
-**Circular Economy Platform**
+**Community Bartering & Circular Economy**
 
-A community bartering platform under a circular economy model.
+A bartering platform for Lima: publish what you no longer use, connect with verified neighbors, and trade without spending money.
 
-**Tech:** HTML5, CSS3, JS ES6+, GitHub Actions
+- **Landing page:** built with Astro, mobile first, deployed with GitHub Actions
+- **Android app:** Kotlin and Jetpack Compose with a feature-based clean architecture (domain, application, infrastructure, presentation) and an in-app Ktor mock API
 
-**Role:** Core contributor & integration lead. Team of 6.
+**Tech:** Astro, TypeScript, Kotlin, Jetpack Compose, Material 3, Ktor, GitHub Actions
 
-[📂 Repo](https://github.com/trinity-bytes/minka) - [🌐 Live](https://trinity-bytes.github.io/minka/)
+**Role:** Core contributor & integration lead. Team of 6, GitFlow.
+
+[📂 Landing](https://github.com/trinity-bytes/minka) - [📱 Android](https://github.com/trinity-bytes/minka-android) - [🌐 Live](https://minka.jahattrinidad.com/)
 
 </td>
 </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
+
+### Other Projects
+
+- **[Viora](https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp)** - Agricultural monitoring platform with NDVI analytics, IoT sensors, and Mapbox maps. Angular, Spring Boot, PostgreSQL. ([Live](https://viora-webapp.web.app/))
+- **[Queens](https://github.com/trinity-bytes/queens-game)** - Logic puzzle game built with Next.js, React, and Tailwind CSS. ([Live](https://queens.jahattrinidad.com/))
+- **[SafeMap](https://github.com/trinity-bytes/safe-map)** - Anonymous incident reports with a heatmap and safer routes using React and OpenStreetMap.
+- **[Coursera Clone](https://github.com/trinity-bytes/coursera-clone)** - C++ console app for courses, enrollments, and certificates using AVL trees, hash tables, graphs, and heaps.
+- **[Curriculum Flow](https://github.com/trinity-bytes/curriculum-flow)** - Visualizes curricula as prerequisite graphs with topological sort (Kahn) and Hasse diagrams.
+- **[Green Circuit](https://github.com/trinity-bytes/green-circuit)** - Optimizes urban waste collection routes with TSP and reports distance, time, and CO₂.
 
 <!-- TODO: when the portfolio is live, point this line to it -->
 <sub>More projects on my [GitHub repositories](https://github.com/trinity-bytes?tab=repositories).</sub>
