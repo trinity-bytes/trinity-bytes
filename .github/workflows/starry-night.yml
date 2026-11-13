@@ -1,0 +1,41 @@
+name: Generate Starry Night SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG
+        env:
+          # Optional STARRY_NIGHT_TOKEN (classic PAT with read:user) also counts
+          # private contributions; the default token only sees public ones.
+          GITHUB_TOKEN: ${{ secrets.STARRY_NIGHT_TOKEN || github.token }}
+        run: >-
+          node scripts/starry-night.mjs
+          --user "${{ github.repository_owner }}"
+          --out-dark assets/images/starry-night/starry-night-dark.svg
+          --out-light assets/images/starry-night/starry-night-light.svg
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/images/starry-night
+          git commit -m "chore: update starry night SVGs" || echo "No changes to commit"
+          git push

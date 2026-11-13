@@ -79,13 +79,11 @@ I care about accessibility, performance, and code that stays easy to change, so 
 </div>
 
 <div align="center">
-  <a href="https://cyprieng.github.io/github-breakout/?user=trinity-bytes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/breakout/breakout-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/images/breakout/breakout-light.svg" />
-      <img alt="GitHub Breakout - Click to play!" src="assets/images/breakout/breakout-light.svg" width="780"/>
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/starry-night/starry-night-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/starry-night/starry-night-light.svg" />
+    <img alt="Contribution graph drawn as a twinkling starry night" src="assets/images/starry-night/starry-night-light.svg" width="780"/>
+  </picture>
 </div>
 <!-- markdownlint-enable MD033 -->
 
