@@ -75,108 +75,108 @@
     40%, 100% { opacity: 0; transform: scale(0.6) rotate(14deg); }
   }
   @keyframes mpos0 {
-    0% { transform: translate(752.19px, 9.21px) rotate(160.42deg); }
-    20% { transform: translate(429.63px, 25.88px) rotate(149.2deg); }
-    40% { transform: translate(316.83px, -5.3px) rotate(147.74deg); }
-    60% { transform: translate(549.94px, 28.53px) rotate(163.75deg); }
-    80% { transform: translate(712.36px, 14.46px) rotate(151.98deg); }
-    100% { transform: translate(752.19px, 9.21px) rotate(160.42deg); }
+    0% { transform: translate(436.55px, 30.29px) rotate(156.45deg); }
+    20% { transform: translate(261.88px, 20.6px) rotate(168.64deg); }
+    40% { transform: translate(398.46px, 16.9px) rotate(168.01deg); }
+    60% { transform: translate(234.2px, 22.68px) rotate(163.72deg); }
+    80% { transform: translate(734.62px, -4.06px) rotate(167.48deg); }
+    100% { transform: translate(436.55px, 30.29px) rotate(156.45deg); }
   }
   @keyframes mfly0 {
     0% { opacity: 0; transform: translateX(0); }
-    1.14% { opacity: 1; }
-    5.21% { opacity: 1; }
-    9.48%, 100% { opacity: 0; transform: translateX(282.24px); }
+    1.18% { opacity: 1; }
+    5.42% { opacity: 1; }
+    9.86%, 100% { opacity: 0; transform: translateX(195.44px); }
   }
   @keyframes mtail0 {
     0% { transform: scaleX(0.15); }
-    3.32% { transform: scaleX(1); }
-    5.69% { transform: scaleX(1); }
-    9.48%, 100% { transform: scaleX(0.25); }
+    3.45% { transform: scaleX(1); }
+    5.92% { transform: scaleX(1); }
+    9.86%, 100% { transform: scaleX(0.25); }
   }
   @keyframes mhead0 {
     0% { transform: scale(0.5); }
-    1.9% { transform: scale(1); }
-    6.63% { transform: scale(1.5); }
-    9.48%, 100% { transform: scale(0.3); }
+    1.97% { transform: scale(1); }
+    6.9% { transform: scale(1.5); }
+    9.86%, 100% { transform: scale(0.3); }
   }
   @keyframes mpos1 {
-    0% { transform: translate(687.95px, 36.73px) rotate(147.69deg); }
-    20% { transform: translate(697.13px, 49.62px) rotate(165.26deg); }
-    40% { transform: translate(203.52px, 35.84px) rotate(148.75deg); }
-    60% { transform: translate(277.52px, 9.71px) rotate(166.03deg); }
-    80% { transform: translate(501.94px, 14.56px) rotate(155deg); }
-    100% { transform: translate(687.95px, 36.73px) rotate(147.69deg); }
+    0% { transform: translate(701.11px, 23.59px) rotate(167.62deg); }
+    20% { transform: translate(454.67px, -2.54px) rotate(151.26deg); }
+    40% { transform: translate(360.5px, 15.32px) rotate(157.26deg); }
+    60% { transform: translate(530.37px, 47.69px) rotate(156.2deg); }
+    80% { transform: translate(552.63px, 46.08px) rotate(165.71deg); }
+    100% { transform: translate(701.11px, 23.59px) rotate(167.62deg); }
   }
   @keyframes mfly1 {
     0% { opacity: 0; transform: translateX(0); }
-    0.96% { opacity: 1; }
-    4.4% { opacity: 1; }
-    8%, 100% { opacity: 0; transform: translateX(247.47px); }
+    1.31% { opacity: 1; }
+    5.99% { opacity: 1; }
+    10.88%, 100% { opacity: 0; transform: translateX(313.86px); }
   }
   @keyframes mtail1 {
     0% { transform: scaleX(0.15); }
-    2.8% { transform: scaleX(1); }
-    4.8% { transform: scaleX(1); }
-    8%, 100% { transform: scaleX(0.25); }
+    3.81% { transform: scaleX(1); }
+    6.53% { transform: scaleX(1); }
+    10.88%, 100% { transform: scaleX(0.25); }
   }
   @keyframes mhead1 {
     0% { transform: scale(0.5); }
-    1.6% { transform: scale(1); }
-    5.6% { transform: scale(1.5); }
-    8%, 100% { transform: scale(0.3); }
+    2.18% { transform: scale(1); }
+    7.62% { transform: scale(1.5); }
+    10.88%, 100% { transform: scale(0.3); }
   }
   @keyframes mpos2 {
-    0% { transform: translate(370.69px, 11.83px) rotate(157.74deg); }
-    20% { transform: translate(332.46px, 17.93px) rotate(165.22deg); }
-    40% { transform: translate(582.27px, 35.74px) rotate(155.12deg); }
-    60% { transform: translate(292.24px, 42.19px) rotate(168.54deg); }
-    80% { transform: translate(373.82px, 32.95px) rotate(162.4deg); }
-    100% { transform: translate(370.69px, 11.83px) rotate(157.74deg); }
+    0% { transform: translate(674.49px, 31.4px) rotate(161.42deg); }
+    20% { transform: translate(290.23px, 26.15px) rotate(155.62deg); }
+    40% { transform: translate(570.27px, 25.48px) rotate(151.68deg); }
+    60% { transform: translate(323.77px, 18.05px) rotate(154.66deg); }
+    80% { transform: translate(369.06px, 16.1px) rotate(169.38deg); }
+    100% { transform: translate(674.49px, 31.4px) rotate(161.42deg); }
   }
   @keyframes mfly2 {
     0% { opacity: 0; transform: translateX(0); }
-    0.96% { opacity: 1; }
-    4.38% { opacity: 1; }
-    7.96%, 100% { opacity: 0; transform: translateX(318.97px); }
+    0.82% { opacity: 1; }
+    3.76% { opacity: 1; }
+    6.84%, 100% { opacity: 0; transform: translateX(257.79px); }
   }
   @keyframes mtail2 {
     0% { transform: scaleX(0.15); }
-    2.79% { transform: scaleX(1); }
-    4.78% { transform: scaleX(1); }
-    7.96%, 100% { transform: scaleX(0.25); }
+    2.39% { transform: scaleX(1); }
+    4.1% { transform: scaleX(1); }
+    6.84%, 100% { transform: scaleX(0.25); }
   }
   @keyframes mhead2 {
     0% { transform: scale(0.5); }
-    1.59% { transform: scale(1); }
-    5.57% { transform: scale(1.5); }
-    7.96%, 100% { transform: scale(0.3); }
+    1.37% { transform: scale(1); }
+    4.79% { transform: scale(1.5); }
+    6.84%, 100% { transform: scale(0.3); }
   }
   @keyframes mpos3 {
-    0% { transform: translate(663.13px, 44.69px) rotate(148.54deg); }
-    20% { transform: translate(370.15px, 53.2px) rotate(151.17deg); }
-    40% { transform: translate(741.18px, 46.61px) rotate(164.58deg); }
-    60% { transform: translate(521.32px, 22.3px) rotate(162.21deg); }
-    80% { transform: translate(673.94px, 3.2px) rotate(152.53deg); }
-    100% { transform: translate(663.13px, 44.69px) rotate(148.54deg); }
+    0% { transform: translate(349.86px, 52.76px) rotate(160.35deg); }
+    20% { transform: translate(244.59px, 23.8px) rotate(161.06deg); }
+    40% { transform: translate(577.31px, 31.91px) rotate(163.78deg); }
+    60% { transform: translate(519.49px, 37.4px) rotate(169.63deg); }
+    80% { transform: translate(196.72px, 44.46px) rotate(146.52deg); }
+    100% { transform: translate(349.86px, 52.76px) rotate(160.35deg); }
   }
   @keyframes mfly3 {
     0% { opacity: 0; transform: translateX(0); }
-    0.48% { opacity: 1; }
-    2.19% { opacity: 1; }
-    3.98%, 100% { opacity: 0; transform: translateX(240.94px); }
+    0.69% { opacity: 1; }
+    3.17% { opacity: 1; }
+    5.76%, 100% { opacity: 0; transform: translateX(253.16px); }
   }
   @keyframes mtail3 {
     0% { transform: scaleX(0.15); }
-    1.39% { transform: scaleX(1); }
-    2.39% { transform: scaleX(1); }
-    3.98%, 100% { transform: scaleX(0.25); }
+    2.01% { transform: scaleX(1); }
+    3.45% { transform: scaleX(1); }
+    5.76%, 100% { transform: scaleX(0.25); }
   }
   @keyframes mhead3 {
     0% { transform: scale(0.5); }
-    0.8% { transform: scale(1); }
-    2.78% { transform: scale(1.5); }
-    3.98%, 100% { transform: scale(0.3); }
+    1.15% { transform: scale(1); }
+    4.03% { transform: scale(1.5); }
+    5.76%, 100% { transform: scale(0.3); }
   }
   @media (prefers-reduced-motion: reduce) {
     .tw, .sparkle, .mpos, .meteor, .mpart { animation: none !important; }
@@ -551,42 +551,43 @@
   <rect x="748.5" y="35.5" width="11" height="11" rx="2.5" fill="#52476a"/><rect x="748.5" y="35.5" width="11" height="11" rx="2.5" class="tw s1" fill="#cba6f7" style="animation-name:tw1;animation-duration:6.22s;animation-delay:-3.44s"/>
   <rect x="748.5" y="49.5" width="11" height="11" rx="2.5" fill="#313244"/>
   <rect x="748.5" y="63.5" width="11" height="11" rx="2.5" fill="#313244"/>
-  <g class="mpos" style="animation-name:mpos0;animation-duration:48.5s;animation-delay:-5.46s"><g class="meteor" style="animation-name:mfly0;animation-duration:9.7s;animation-delay:-5.46s">
-    <g class="mpart" style="animation-name:mtail0;animation-duration:9.7s;animation-delay:-5.46s">
-      <path d="M0 -1.1C-11.81 -0.88 -30.71 -0.28 -47.25 0C-30.71 0.28 -11.81 0.88 0 1.1Z" fill="url(#trail0)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
-      <path d="M0 -1.1C-11.81 -0.88 -30.71 -0.28 -47.25 0C-30.71 0.28 -11.81 0.88 0 1.1Z" fill="url(#trail0)"/>
+  <rect x="748.5" y="77.5" width="11" height="11" rx="2.5" fill="#313244"/>
+  <g class="mpos" style="animation-name:mpos0;animation-duration:48.5s;animation-delay:-1.87s"><g class="meteor" style="animation-name:mfly0;animation-duration:9.7s;animation-delay:-1.87s">
+    <g class="mpart" style="animation-name:mtail0;animation-duration:9.7s;animation-delay:-1.87s">
+      <path d="M0 -1.1C-15.42 -0.88 -40.08 -0.28 -61.67 0C-40.08 0.28 -15.42 0.88 0 1.1Z" fill="url(#trail0)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
+      <path d="M0 -1.1C-15.42 -0.88 -40.08 -0.28 -61.67 0C-40.08 0.28 -15.42 0.88 0 1.1Z" fill="url(#trail0)"/>
     </g>
-    <g class="mpart" style="animation-name:mhead0;animation-duration:9.7s;animation-delay:-5.46s">
+    <g class="mpart" style="animation-name:mhead0;animation-duration:9.7s;animation-delay:-1.87s">
       <circle r="2.6" fill="#f5e0dc" filter="url(#mblur)" opacity="0.8"/>
       <circle r="1.2" fill="#f5e0dc"/>
     </g>
   </g></g>
-  <g class="mpos" style="animation-name:mpos1;animation-duration:66.5s;animation-delay:-10.94s"><g class="meteor" style="animation-name:mfly1;animation-duration:13.3s;animation-delay:-10.94s">
-    <g class="mpart" style="animation-name:mtail1;animation-duration:13.3s;animation-delay:-10.94s">
-      <path d="M0 -1.1C-14.53 -0.88 -37.77 -0.28 -58.11 0C-37.77 0.28 -14.53 0.88 0 1.1Z" fill="url(#trail1)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
-      <path d="M0 -1.1C-14.53 -0.88 -37.77 -0.28 -58.11 0C-37.77 0.28 -14.53 0.88 0 1.1Z" fill="url(#trail1)"/>
+  <g class="mpos" style="animation-name:mpos1;animation-duration:66.5s;animation-delay:-6.02s"><g class="meteor" style="animation-name:mfly1;animation-duration:13.3s;animation-delay:-6.02s">
+    <g class="mpart" style="animation-name:mtail1;animation-duration:13.3s;animation-delay:-6.02s">
+      <path d="M0 -1.1C-12.41 -0.88 -32.28 -0.28 -49.66 0C-32.28 0.28 -12.41 0.88 0 1.1Z" fill="url(#trail1)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
+      <path d="M0 -1.1C-12.41 -0.88 -32.28 -0.28 -49.66 0C-32.28 0.28 -12.41 0.88 0 1.1Z" fill="url(#trail1)"/>
     </g>
-    <g class="mpart" style="animation-name:mhead1;animation-duration:13.3s;animation-delay:-10.94s">
+    <g class="mpart" style="animation-name:mhead1;animation-duration:13.3s;animation-delay:-6.02s">
       <circle r="2.6" fill="#b4befe" filter="url(#mblur)" opacity="0.8"/>
       <circle r="1.2" fill="#f5e0dc"/>
     </g>
   </g></g>
-  <g class="mpos" style="animation-name:mpos2;animation-duration:89.5s;animation-delay:-12.43s"><g class="meteor" style="animation-name:mfly2;animation-duration:17.9s;animation-delay:-12.43s">
-    <g class="mpart" style="animation-name:mtail2;animation-duration:17.9s;animation-delay:-12.43s">
-      <path d="M0 -1.1C-15.08 -0.88 -39.2 -0.28 -60.31 0C-39.2 0.28 -15.08 0.88 0 1.1Z" fill="url(#trail2)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
-      <path d="M0 -1.1C-15.08 -0.88 -39.2 -0.28 -60.31 0C-39.2 0.28 -15.08 0.88 0 1.1Z" fill="url(#trail2)"/>
+  <g class="mpos" style="animation-name:mpos2;animation-duration:89.5s;animation-delay:-11.04s"><g class="meteor" style="animation-name:mfly2;animation-duration:17.9s;animation-delay:-11.04s">
+    <g class="mpart" style="animation-name:mtail2;animation-duration:17.9s;animation-delay:-11.04s">
+      <path d="M0 -1.1C-17.81 -0.88 -46.3 -0.28 -71.23 0C-46.3 0.28 -17.81 0.88 0 1.1Z" fill="url(#trail2)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
+      <path d="M0 -1.1C-17.81 -0.88 -46.3 -0.28 -71.23 0C-46.3 0.28 -17.81 0.88 0 1.1Z" fill="url(#trail2)"/>
     </g>
-    <g class="mpart" style="animation-name:mhead2;animation-duration:17.9s;animation-delay:-12.43s">
+    <g class="mpart" style="animation-name:mhead2;animation-duration:17.9s;animation-delay:-11.04s">
       <circle r="2.6" fill="#89dceb" filter="url(#mblur)" opacity="0.8"/>
       <circle r="1.2" fill="#f5e0dc"/>
     </g>
   </g></g>
-  <g class="mpos" style="animation-name:mpos3;animation-duration:115.5s;animation-delay:-20.87s"><g class="meteor" style="animation-name:mfly3;animation-duration:23.1s;animation-delay:-20.87s">
-    <g class="mpart" style="animation-name:mtail3;animation-duration:23.1s;animation-delay:-20.87s">
-      <path d="M0 -1.1C-13.9 -0.88 -36.14 -0.28 -55.6 0C-36.14 0.28 -13.9 0.88 0 1.1Z" fill="url(#trail3)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
-      <path d="M0 -1.1C-13.9 -0.88 -36.14 -0.28 -55.6 0C-36.14 0.28 -13.9 0.88 0 1.1Z" fill="url(#trail3)"/>
+  <g class="mpos" style="animation-name:mpos3;animation-duration:115.5s;animation-delay:-22.55s"><g class="meteor" style="animation-name:mfly3;animation-duration:23.1s;animation-delay:-22.55s">
+    <g class="mpart" style="animation-name:mtail3;animation-duration:23.1s;animation-delay:-22.55s">
+      <path d="M0 -1.1C-12.3 -0.88 -31.98 -0.28 -49.21 0C-31.98 0.28 -12.3 0.88 0 1.1Z" fill="url(#trail3)" transform="scale(1 2.6)" filter="url(#mblur)" opacity="0.5"/>
+      <path d="M0 -1.1C-12.3 -0.88 -31.98 -0.28 -49.21 0C-31.98 0.28 -12.3 0.88 0 1.1Z" fill="url(#trail3)"/>
     </g>
-    <g class="mpart" style="animation-name:mhead3;animation-duration:23.1s;animation-delay:-20.87s">
+    <g class="mpart" style="animation-name:mhead3;animation-duration:23.1s;animation-delay:-22.55s">
       <circle r="2.6" fill="#f5c2e7" filter="url(#mblur)" opacity="0.8"/>
       <circle r="1.2" fill="#f5e0dc"/>
     </g>
