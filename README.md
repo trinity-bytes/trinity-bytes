@@ -1,14 +1,16 @@
-# Hi! I'm Jahat, a software engineer in the making
+# Hi! I'm Jahat, a design engineer
 
-> I build web and Android products end to end: accessible interfaces, thoughtful motion, and clean architecture underneath.
+> I build products people actually use, designed and built by the same person. So nothing gets lost between design and code: it looks right, it works, and it ships sooner.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <!-- TODO: uncomment when the portfolio is live
-  <a href="https://YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://jahattrinidad.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/portfolio-button/portfolio-button-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/images/portfolio-button/portfolio-button-light.svg" />
+      <img src="assets/images/portfolio-button/portfolio-button-light.svg" alt="Visit my portfolio: jahattrinidad.com" width="360"/>
+    </picture>
   </a>
-  -->
 </div>
 <!-- markdownlint-enable MD033 -->
 
@@ -19,13 +21,13 @@
 <tr>
 <td width="65%" valign="middle">
 
-Software Engineering student at **UPC** who enjoys turning ideas into products people can actually use. These days I spend most of my time on **TypeScript** web apps with **Astro** and **React**, and on native **Android** apps with **Kotlin** and **Jetpack Compose**.
+**Design engineer, frontend and product.** I take ideas from the first sketch to the live site: interface, motion, code, and the architecture that lets the product keep growing instead of being redone.
 
-I care about accessibility, performance, and code that stays easy to change, so I lean on clean architecture and tests. My roots are in **C++** and algorithms, and I've led a 6-person team using GitFlow and Scrum.
+I speak both languages: designs engineers can build, and code designers recognize as theirs. Brand work taught me systems, teaching taught me to explain, and running community channels taught me to listen to users. I use all three every time I build, mostly with **TypeScript**, **Astro**, and **React** on the web, and **Kotlin** with **Jetpack Compose** on Android. Software Engineering student at **UPC**.
 
-**Currently seeking an internship** where I can ship web or mobile features in a real product team.
+**Open to an internship, now:** frontend or product design engineering.
 
-- :round_pushpin: **Lima, PE** · **GMT-5** · **Available now**
+- :round_pushpin: **Lima, Peru** · **GMT-5** · **Open to remote**
 - :globe_with_meridians: **Languages:** Spanish (native), English (B1), Portuguese (A2)
 
 </td>
@@ -34,7 +36,7 @@ I care about accessibility, performance, and code that stays easy to change, so 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
-  <img alt="Animated illustration of a person coding at a desk (looping GIF)" width="260" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
+  <img alt="Animated cartoon of Jahat sketching a UI on a drawing tablet and turning it into code on a laptop (looping GIF)" width="260" src="https://raw.githubusercontent.com/trinity-bytes/trinity-bytes/main/assets/gifs/about-me-coding-light.gif" />
 </picture>
 
 </td>
@@ -94,28 +96,28 @@ I care about accessibility, performance, and code that stays easy to change, so 
 <tr>
 <td width="50%" valign="top">
 
-### AllinBand
+### Inspiration Garden
 
 <div align="center">
-  <a href="https://allin.jahattrinidad.com/">
-    <img src="assets/images/screenshots/allinband-landing.jpg" alt="AllinBand landing page" width="100%"/>
+  <a href="https://inspo.jahattrinidad.com/">
+    <img src="assets/images/screenshots/inspo.png" alt="Inspiration Garden infinite canvas" width="100%"/>
   </a>
 </div>
 
-**Smart Wristband for Emergency Detection**
+**My Library of References, Open to Anyone**
 
-Official landing page for a smart wristband concept that monitors vital signs, asks the wearer if they are okay, and alerts family and a health center if they don't respond.
+I kept losing references: a font in a bookmark, a layout in a screenshot, a library somewhere in a chat. So I built one place to save them: images, links, texts, videos, color palettes, and fonts. My AI agents and I save, tag, and sort it through the same API.
 
-- Static site with zero dependencies and no build step
-- Scroll-driven horizontal journey and pointer-depth hero, animated with `transform`, `opacity`, and SVG strokes only
-- Fully readable without JavaScript; respects `prefers-reduced-motion`
-- Targets WCAG 2.2 AA; browser tests with Playwright
+- WebGL (three.js) canvas you can travel in every direction, with a barrel lens and budgeted GPU texture uploads
+- Search with kind, category, tag, and dominant-color filters; installable PWA built for phones
+- Agent-friendly REST API with scoped bearer tokens and an OpenAPI 3.1 spec
+- Trash with restore and a revision history for every item
 
-**Tech:** HTML5, CSS3, JavaScript, SVG, Playwright
+**Tech:** React, Vite, three.js, TypeScript, Cloudflare Workers, Hono, D1, Drizzle, R2, Zod, Vitest
 
-**Role:** Development & UX. Team of 4 (Computer Architecture course, UPC).
+**Role:** Product, design, and code. Solo; first commit to first release in 7 days.
 
-[📂 Repo](https://github.com/trinity-bytes/allin-band) - [🌐 Live](https://allin.jahattrinidad.com/)
+[📂 Repo](https://github.com/trinity-bytes/my-inspiration-garden) - [🌐 Live](https://inspo.jahattrinidad.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -124,7 +126,7 @@ Official landing page for a smart wristband concept that monitors vital signs, a
 
 <div align="center">
   <a href="https://minka.jahattrinidad.com/">
-    <img src="assets/images/screenshots/minka-landing.webp" alt="Mink'a landing page" width="100%"/>
+    <img src="assets/images/screenshots/minka.png" alt="Mink'a landing page" width="100%"/>
   </a>
 </div>
 
@@ -146,22 +148,14 @@ A bartering platform for Lima: publish what you no longer use, connect with veri
 </table>
 <!-- markdownlint-enable MD033 -->
 
-### Other Projects
 
-- **[Viora](https://github.com/upc-pre-1asi0729-11848-arcadiadevs/viora-webapp)** - Agricultural monitoring platform with NDVI analytics, IoT sensors, and Mapbox maps. Angular, Spring Boot, PostgreSQL. ([Live](https://viora-webapp.web.app/))
-- **[Queens](https://github.com/trinity-bytes/queens-game)** - Logic puzzle game built with Next.js, React, and Tailwind CSS. ([Live](https://queens.jahattrinidad.com/))
-- **[SafeMap](https://github.com/trinity-bytes/safe-map)** - Anonymous incident reports with a heatmap and safer routes using React and OpenStreetMap.
-- **[Coursera Clone](https://github.com/trinity-bytes/coursera-clone)** - C++ console app for courses, enrollments, and certificates using AVL trees, hash tables, graphs, and heaps.
-- **[Curriculum Flow](https://github.com/trinity-bytes/curriculum-flow)** - Visualizes curricula as prerequisite graphs with topological sort (Kahn) and Hasse diagrams.
-- **[Green Circuit](https://github.com/trinity-bytes/green-circuit)** - Optimizes urban waste collection routes with TSP and reports distance, time, and CO₂.
 
-<!-- TODO: when the portfolio is live, point this line to it -->
-<sub>More projects on my [GitHub repositories](https://github.com/trinity-bytes?tab=repositories).</sub>
+<sub>Case studies and more projects on [jahattrinidad.com](https://jahattrinidad.com/work/).</sub>
 
 ---
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-Thanks for visiting my profile! Ready to collaborate on the next big project? Let's connect on <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a>! 🚀
+Looking for someone who can design it and build it? Let's talk on <a href="https://www.linkedin.com/in/trinitybytes">LinkedIn</a> or through <a href="https://jahattrinidad.com/">my portfolio</a>.
 </div>
 <!-- markdownlint-enable MD033 -->
